@@ -1,0 +1,60 @@
+body {
+    font-family: monospace;
+    margin: 25px 35px;
+}
+
+.print-only {
+    display: none;
+}
+
+a.dark-link {
+    color: #000;
+}
+
+a.dark-link:active,
+a.dark-link:hover,
+a.dark-link:focus,
+a.dark-link:link,
+a.dark-link:visited  {
+    text-decoration: none;
+}
+
+.margin-bottom-small {
+    margin-bottom: 20px;
+}
+
+.sub-section {
+    margin-bottom: 50px;
+}
+
+.block-quote-regular {
+    font-size: 14px;
+}
+
+/***********************
+ * Bootstrap Overrides *
+ ***********************/
+
+.panel {
+    border: none;
+    box-shadow: none;
+}
+
+.panel .panel-heading {
+    background-image: none;
+    background-color: #fff;
+}
+
+.panel .panel-footer {
+    background-color: #fff;
+}
+
+/*******************
+ * Media Overrides *
+ *******************/
+
+@media print {
+    .print-only {
+        display: inline;
+    }
+}
