@@ -23,4 +23,4 @@ include: ['_pages']
 
 # Dependencies
 gems:
-  - jekyll-redirect-from
+  - github-pages
