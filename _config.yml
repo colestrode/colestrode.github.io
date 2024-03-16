@@ -6,20 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Effortless Management
 email: colestrode@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A very infrequently updated blog on software engineering management.
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://artisinaljavascript.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://colestro.de" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  colestrode
 
 # Build settings
 markdown: kramdown
 include: ['_pages']
+
+# Theme
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme 
 
 # Dependencies
 gems:
