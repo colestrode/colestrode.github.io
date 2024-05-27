@@ -55,8 +55,6 @@ With the extra preparation, we can also turn this into a longer workshop with on
 
 Ok… this one mostly falls on me. And honestly I can’t say if this actually helped anyone learn anything.
 
-{% twitter 854715056218681344 %}
-
 You see, I watched a lot of TV growing up and for some reason while writing my slides, I got it into my head that the early to mid 90’s TGIF lineup was a good theme. Keep in mind, a large portion of our audience was likely in their mid twenties… meaning these gifs are older than them.
 
 But as a presenter, having a theme that I found funny and engaging was helpful. I had an easier time writing my slides and I was excited to share what I wrote with our participants. That excitement helped me cut through the anxiety of presenting as well. (The patron saint of [Kevin James on a jumbotron](https://twitter.com/colestrode/status/868171852354637824) also helped, tbqh.)
