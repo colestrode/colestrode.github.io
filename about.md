@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/images/headshot_2023.jpg
+image: /assets/images/nordic_socks.jpg
 ---
 
 ># Life is hard already, let's not make it harder for each other.
