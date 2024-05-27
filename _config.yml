@@ -1,5 +1,5 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
 
@@ -49,7 +49,14 @@ social:
 
   - icon:	github
     url:	https://github.com/colestrode
-    desc:	Fork me on github
+    desc:	Find me on Github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/colestrode/
+    desc:	This is my corporate face
     share_url:
     share_title:
     share_link:
