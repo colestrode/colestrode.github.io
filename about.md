@@ -2,8 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/article_images/nordic_socks.jpg
-image2: /assets/article_images/nordic_socks-mobile.jpg
+image: /assets/article_images/about/nordic_socks.jpg
+image2: /assets/article_images/about/nordic_socks-mobile.jpg
 ---
 
 ># Life is hard already, let's not make it harder for each other.
