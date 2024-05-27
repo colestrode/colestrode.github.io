@@ -3,7 +3,8 @@ layout: post
 title:  "Your project is in trouble, what do you do?"
 date:   2018-09-24 12:00:00
 tags: projects deadlines
-image: /assets/article_images/2018-09-24-your-project-is-in-trouble-what-do-you-do/andrik-langfield-0rTCXZM7Xfo-unsplash.jpg
+image: /assets/article_images/2018-09-24-your-project-is-in-trouble-what-do-you-do/pocket-watch.jpg
+image2: /assets/article_images/2018-09-24-your-project-is-in-trouble-what-do-you-do/pocket-watch-mobile.jpg
 ---
 
 We’ve all been there. You’re a programmer-turned-new-manager and your team has a deadline coming up. You take a look at your calendar and you start to get that feeling in the pit of your stomach: we aren’t going to make it. You start to panic and feel that cold sweat. Maybe you should just go into a cave and code your way out of this one? But you’re a manager, not a coder any more, so what do you do?
