@@ -2,9 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+image: /assets/images/author.jpg
 ---
 
 ># Life is hard already, let's not make it harder for each other.
+
+
 
 Hi! I'm Cole, a Senior Engineering Manager at Zendesk! I spent almost a decade as a hands on engineer at a few different companies until I started managing in 2017. I kept my hands on the keyboard until
 my teams grew too big for me to responsible be in their critical path as a coder (and maybe a little past that point... oops!).
