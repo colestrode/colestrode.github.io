@@ -8,7 +8,7 @@ image: /assets/images/nordic_socks.jpg
 ># Life is hard already, let's not make it harder for each other.
 
 
-Hi! I'm Cole, a Senior Engineering Manager at Zendesk! I spent almost a decade as a hands on engineer at a few different companies until I started managing in 2017. I kept my hands on the keyboard until
+Hi! I'm Cole, a Senior Engineering Manager at [Zendesk](https://www.zendesk.com/)! I spent almost a decade as a hands on engineer at a few different companies until I started managing in 2017. I kept my hands on the keyboard until
 my teams grew too big for me to responsibly be in their critical path as a coder (and maybe a little past that point... oops!).
 
 I get really nerdy about engineering management and read about it broadly. I have a 3 year masters in Transformative Leadership and
