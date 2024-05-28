@@ -21,7 +21,7 @@ Through all this I've found that engineering managment skills are best applied w
 the easier management becomes. In my best moments, the teams run themselves and the work feels effortless. It's not magic, it's mostly
 just practice.
 
-In my spare time knit, run long distances, spend time with my family, and read any scary book I can get my hands on.
+In my spare time knit (yes, I made those socks!), run long distances, spend time with my family, and read any scary book I can get my hands on.
 
 My core belief about managing is that a good manager may not make your life better, but a bad manager can certainly make it worse!
 Life is hard already, let's not make it harder for each other.
