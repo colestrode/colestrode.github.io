@@ -2,7 +2,7 @@
 layout: post
 title:  "Your project is in trouble, what do you do?"
 date:   2018-09-24 12:00:00
-tags: featured projects deadlines
+tags: projects deadlines
 image: /assets/article_images/2018-09-24-your-project-is-in-trouble-what-do-you-do/pocket-watch.jpg
 image2: /assets/article_images/2018-09-24-your-project-is-in-trouble-what-do-you-do/pocket-watch-mobile.jpg
 ---

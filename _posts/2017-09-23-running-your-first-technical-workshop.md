@@ -2,7 +2,7 @@
 layout: post
 title:  "Running your first technical workshop: the I HAVE NO IDEA WHAT I'M DOING edition"
 date:   2017-09-23 12:00:00
-tags: featured
+tags: workshop project-management
 image: /assets/article_images/2017-09-23-running-your-first-technical-workshop/busy-table.jpg
 image2: /assets/article_images/2017-09-23-running-your-first-technical-workshop/busy-table-mobile.jpg
 ---
