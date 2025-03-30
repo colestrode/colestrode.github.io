@@ -15,7 +15,7 @@ One helpful strategy you can adopt is what I call "default decisions." This appr
 
 ## What Are Default Decisions?
 
-Default decisions are simple yet effective. They involve setting a clear expectation that if no feedback is received by a certain time a specific action will be taken. For instance, you might say to a team member, “If you don’t hear from me by the end of the day, assume your request is approved.” Or, when presenting a plan to an executive, you might say “This is what we’re planning on doing. If you want us to do something different let me know; otherwise, the team will begin on Monday.”
+A "default decision" is setting a clear expectation that if no feedback is received by a certain time a specific action will be taken. For instance, you might say to a team member, “If you don’t hear from me by the end of the day, assume your request is approved.” Or, when presenting a plan to an executive, you might say “This is what we’re planning on doing. If you want us to do something different let me know; otherwise, the team will begin on Monday.”
 
 This approach eliminates ambiguity and creates a straightforward path forward. By establishing a default action, you empower your team to proceed without waiting for explicit approval or further discussion, which can often lead to delays.
 
