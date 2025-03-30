@@ -7,8 +7,6 @@ image: /assets/article_images/2025-03-28-using-default-decisions/decision.jpg
 image2: /assets/article_images/2025-03-28-using-default-decisions/decision-mobile.jpg
 ---
 
-# Effortless Action Through Default Decisions
-
 If you're like me you've gotten yourself into a stressful situation where a pile of people are waiting for you to make decisions before each of them can move forward. Or you can find yourself blocked while you wait for others to get back to you with their decision or approval.
 
 Your value as a leader is primarily measured in what your team produces: is it the right thing, is it done on time, is it done well. Your value is making sure these things happen. However to do that it's easy to find yourself in the middle communicating back and forth between your team and higher level stakeholders. While this feels like important position, it's not inherently valuable to be a go-between; in fact you will likely end up holding back your team's progress while they wait for decisions to be made and communicated out. You never want to be the bottleneck for progress.
