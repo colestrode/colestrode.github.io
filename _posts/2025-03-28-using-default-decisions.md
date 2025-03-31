@@ -9,13 +9,16 @@ image2: /assets/article_images/2025-03-28-using-default-decisions/decision-mobil
 
 If you're like me you've gotten yourself into a stressful situation where a pile of people are waiting for you to make decisions before each of them can move forward. Or you can find yourself blocked while you wait for others to get back to you with their decision or approval.
 
-Your value as a leader is primarily measured in what your team produces: is it the right thing, is it done on time, is it done well. Your value is making sure these things happen. However to do that it's easy to find yourself in the middle communicating back and forth between your team and higher level stakeholders. While this feels like important position, it's not inherently valuable to be a go-between; in fact you will likely end up holding back your team's progress while they wait for decisions to be made and communicated out. You never want to be the bottleneck for progress.
+Your value as a leader is primarily measured in what your team produces: is it the right thing, is it done on time, is it done well. Your value is making sure these things happen. However it's easy to find yourself in the middle communicating back and forth between your team and higher level stakeholders. While this feels like important position, it's not inherently valuable to be a go-between; in fact you will likely end up holding back your team's progress while they wait for decisions to be made and communicated out. You never want to be the bottleneck for progress.
 
-One helpful strategy you can adopt is what I call "default decisions." This approach allows your team to move forward without waiting for approvals, making your life as a leader easier and less stressful while still keeping everyone informed on what to do and when. By using default decisions, you can create a more relaxed environment where everyone knows what to expect and can keep making progress. Let’s explore how this approach can benefit you and your team!
+One helpful strategy I use often is what I call "default decisions." This approach allows your team to move forward without waiting for approvals, making your life as a leader easier and less stressful while still keeping everyone informed on what to do and when. By using default decisions, you can create a more relaxed environment where everyone knows what to expect and can keep making progress. Let’s explore how this approach can benefit you and your team!
 
 ## What Are Default Decisions?
 
-A "default decision" is setting a clear expectation that if no feedback is received by a certain time a specific action will be taken. For instance, you might say to a team member, “If you don’t hear from me by the end of the day, assume your request is approved.” Or, when presenting a plan to an executive, you might say “This is what we’re planning on doing. If you want us to do something different let me know; otherwise, the team will begin on Monday.”
+A "default decision" is setting a clear expectation that if no feedback is received by a certain time a specific action will be taken. The decision is
+made by default with no additional action needed. For instance, you might say to a team member, “If you don’t hear from me by the end of the day,
+assume your request is approved.” Or, when presenting a plan to an executive, you might say “This is what we’re planning on doing. If you want
+us to do something different let me know; otherwise, the team will begin on Monday.”
 
 This approach eliminates ambiguity and creates a straightforward path forward. By establishing a default action, you empower your team to proceed without waiting for explicit approval or further discussion, which can often lead to delays.
 
