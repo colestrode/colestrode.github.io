@@ -8,7 +8,8 @@ image: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-gr
 image2: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-growth-mobile.jpg
 ---
 
-When I first began managing Staff+ engineers I faced a challenge. Unlike earlier-career engineers who need more guidance
+When I first began managing high level engineers, I realized quickly this required a different managerial mindset
+than I had been used to. Unlike earlier-career engineers who need more guidance,
 Staff+ engineers are expected to handle ambiguity and find their own paths forward. Their work is varied, part mentorship, part
 technical documentation, part future planning, and some hands on coding. Identifying how to leverage each engineer's
 strengths was another hurdle; some excelled in technical work, while others focused on strategy. I needed a way to both
@@ -22,38 +23,40 @@ ownership of their project progress and career development.
 ## The Weekly Update Format
 
 I ask my Staff+ engineers to maintain a running document that they fill out before our weekly one-on-one meetings. This
-document serves as an agenda for our discussions and is structured around six key sections. The goal of these sections
+document serves as an agenda for our discussions and is structured into six sections. The goal of these sections
 is to capture the variety of work expected of a high level engineer and make sure they are getting credit for all the
 [glue work](https://www.noidea.dog/glue) that comes with the job.
 
-This format draws inspiration from Julia Evans' insightful article on [brag docs](https://jvns.ca/blog/brag-documents/),
-which emphasizes the importance of self-advocacy and documentation in career development.
+This format draws inspiration from Julia Evans' article on [brag docs](https://jvns.ca/blog/brag-documents/),
+one of my favorite resources for engineers on how to use self-advocacy and documentation in career development.
 
 1. **Top of Mind**: This section allows engineers to voice their most pressing concerns or questions. Whether
    it's upcoming PTO, topics that need immediate attention, or any roadblocks they're facing, this prompt
-   ensures we address the most critical issues first.
+   ensures we address the most critical issues first. These are the items we'll spend the majority of our time discussing.
 
 2. **Project Updates**: Here engineers list the projects they are currently contributing to. I encourage them
    to keep this list consistent week to week, which helps maintain accountability and track progress over time.
    This also helps me track how much work I'm assigning to them and guage how they are handling that workload.
 
 3. **Collaboration & Mentorship**: This section highlights the engineer's contributions to mentoring others and
-   collaborating with teammates. This emphasizes that Staff+ role is a leverage position and much of the value
+   collaborating with teammates. This reinforces that Staff+ role is a leverage position and much of the value
    comes these engineers bring is from leveling up those around them.
 
 4. **System Design & Documentation**: Engineers detail how they have contributed to system design decisions
-   and any documentation efforts. This not only showcases their technical skills but also emphasizes the
-   importance of clear communication within the team.
+   and any documentation efforts. This not only showcases their technical skills but also emphasizes their role in
+  of knowledge sharing and building the understanding of their team.
 
 5. **Company Building**: Beyond their immediate projects, I ask engineers to reflect on how they have
    contributed to the company as a whole. This could include efforts in interviewing, improving processes, or
    sharing knowledge with other teams. Recognizing these contributions fosters a sense of belonging and purpose.
+   Encouraging wider participation in the company also helps engineers build a network and a reputation.
+   These will become important for cross functional projects and driving their career.
 
 6. **What You Learned**: Finally, this section encourages engineers to pursue self-driven learning. Whether
-   it’s a new technology, a programming language, or a soft skill, documenting their learning journey helps
-   foster a growth mindset.
+   it’s a new technology, a programming language, or a professional skill, documenting their learning journey helps
+   reinforce the importance of a growth mindset.
 
-Not every section will have an entry every week, and that's okay. The key is to ensure that the document remains
+Aside from the top of mind and projects, not every section will have an entry every week, and that's okay. The key is to ensure that the document remains
 consistent enough to be useful for both the engineer and myself as a manager.
 
 The purpose of this format is to set expectations about the nature of their role and to help them keep this in
@@ -71,7 +74,7 @@ Using this structured format provides several benefits for the engineers themsel
   during our limited meeting time. This clarity not only helps them articulate their contributions but also
   aligns their efforts with team and company goals.
 
-- **Brag Document**: Over time this running document can be used to construct a "brag doc." Engineers can use it to
+- **Brag Document**: Over time this running document can be used to construct a brag doc or a career narrative. Engineers can use it to
   build their case for raises or promotions, showcasing their accomplishments in a clear and organized manner.
 
 - **Self-Management**: Writing these updates weekly encourages engineers to reflect on their work and take
@@ -79,7 +82,7 @@ Using this structured format provides several benefits for the engineers themsel
 
 ### For Managers
 
-As a manager this format offers numerous advantages:
+As a manager this format benefits me as well:
 
 - **Tracking Progress**: The weekly updates allow me to monitor the growth and progress of each engineer over
   time. This record of coaching and development is invaluable for performance reviews and career development
