@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Structured Weekly Updates for Staff+ Engineers"
+title:  "One weird trick for empowered, self-managed Staff+ engineers"
 date:   2025-04-01 12:00:00
 tags: featured staff-plus engineering management
 image: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-growth.jpg
