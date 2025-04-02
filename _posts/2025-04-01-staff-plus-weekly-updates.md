@@ -3,7 +3,6 @@ layout: post
 title:  "Structured Weekly Updates for Staff+ Engineers"
 date:   2025-04-01 12:00:00
 tags: featured staff-plus engineering management
-description: "A structured weekly update format for Staff+ engineers that enhances communication, accountability, and personal growth."
 image: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-growth.jpg
 image2: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-growth-mobile.jpg
 ---
