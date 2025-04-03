@@ -2,7 +2,7 @@
 layout: post
 title:  "Effortless action through default decisions"
 date:   2025-03-28 12:00:00
-tags: featured decision-making 
+tags:  decision-making 
 image: /assets/article_images/2025-03-28-using-default-decisions/decision.jpg
 image2: /assets/article_images/2025-03-28-using-default-decisions/decision-mobile.jpg
 ---

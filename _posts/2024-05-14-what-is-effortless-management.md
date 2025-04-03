@@ -2,7 +2,7 @@
 layout: post
 title:  "What is effortless management?"
 date:   2024-05-14 12:00:00
-tags: featured staff-plus engineering management
+tags: featured effortless engineering management
 image: /assets/article_images/2024-05-14-what-is-effortless-management/XYZ.jpg
 image2: /assets/article_images/2024-05-14-what-is-effortless-management/XYZ-mobile.jpg
 ---
@@ -11,16 +11,20 @@ Recently one of my engineers asked me: “What exactly do you mean by ‘effortl
 It struck me that while I had used this phrase a lot (and registered a domain name to go with it...),
 I had never truly articulated this concept before, despite it being a core principle in my approach to leadership.
 
-This question got me reflecting on what effortless management means to me and how to explain the value I see in this approach. So, in this post, I’ll do my best to explain this idea and share how it can make your life as a manager easier while empowering those around you. Done well, I think this approach results in happier, more satisfied managers and teams. 
+This question got me reflecting on what effortless management means to me and how to explain the value I see in this approach.
+So, in this post, I’ll do my best to explain this idea and share how it can make your life as a manager easier while empowering those around you.
+Done well, I think this approach results in happier, more satisfied managers and teams.
 
-This approach won't be for everyone, and that's fine. I'll share why this works for me and hopefully you find something of value you can incorporate in your leadership style.
+This approach won't be for everyone, and that's fine.
+I'll share why this works for me and hopefully you find something of value you can incorporate in your leadership style.
 
 ### What is effortless management?
 
 Effortless management is an approach to engineering management that recognizes that we do our best work when we are our best selves. It's more of a set of values than a specific set of practices. If I had to distill it I'd say an effortless manager values:
 
 * teams over individuals
-* empowerment and autonomy over command and control
+In my experience, enacting these values consistently over time leads to a low-effort, highly rewarding style of management.
+This creates an effective and satisfying work environment for all involved.
 * long term development over short term wins
 
 In my experience enacting these values consistently over time leads to a low effort, highly rewarding style of management that creates an effective and satisfying work environment for all involved.
@@ -31,13 +35,11 @@ When you truly master a skill it begins to feel effortless. So at its core, Effo
 
 However, this cycle of busywork can create more headaches than solutions. Effortless management challenges the misconception that activity equals productivity. Instead, it emphasizes that the result is what truly matters, not the effort put into achieving it.
 
-
 ### Maximum impact with minimum effort
 
 A question I often ask myself is: **How can I have the maximum impact with the minimum amount of effort?** This may be the most critical question in effortless management. This isn't about shifting work to make your day easier; this is the question everyone in your orbit should ask themselves.
 
 As a manager, you occupy a leverage position, meaning your role is about amplifying the efforts of your team. By finding techniques that empower those around you, encouraging self-accountability, and helping them identify the most important work, you create a virtuous cycle of improvement within your team.
-
 
 This approach not only leads to shipping higher quality software on time but also enhances customer service. The team members feel empowered and can act with autonomy. In short, effortless management is about fostering an environment where everyone can thrive.
 
@@ -55,7 +57,7 @@ While being introverted in a job that requires a high level of engagement can be
 
 ### The elegance of effortlessness
 
-Beyond the practical benefits the idea of effortless management resonates with my personal sense of elegance. I get a deep satisfaction from the process of learning and refining my understanding and capabilities. This is as true for my hobbies as it is for work. I find joy in delving deeply into subjects that interest me, and while this love for learning enhances my ability to lead, sometimes that feels like a side effect of scratching a nerdy itch to learn. 
+Beyond the practical benefits the idea of effortless management resonates with my personal sense of elegance. I get a deep satisfaction from the process of learning and refining my understanding and capabilities. This is as true for my hobbies as it is for work. I find joy in delving deeply into subjects that interest me, and while this love for learning enhances my ability to lead, sometimes that feels like a side effect of scratching a nerdy itch to learn.
 
 ### Conclusion
 
