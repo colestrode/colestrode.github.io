@@ -51,12 +51,12 @@ As one of my friends likes to say "if you can't be replaced, you can't be promot
 ### Energy management for introverts
 
 As a lifelong introvert I can tell you that managing a team can sometimes be exhausting, especially on days filled with interactions.
-While I love my job and get a lot of satisfaction from it, I also konw that managing my energy is essential to being effective.
+While I love my job and get a lot of satisfaction from it, I also know that managing my energy is essential to being effective.
 While being introverted in a job that requires a high level of engagement can be seen as a shortcoming, managing effortlessly turns this on it's head by defining expending minimal energy as a key to success, not an adaptation to a deficiency.
 
 ### The elegance of effortlessness
 
-Beyond the practical benefits the idea of effortless management resonates with my personal sense of elegance. I get a deep satisfaction from the process of learning and refining my understanding and capabilities. This is as true for my hobbies as it is for work. I find joy in delving deeply into subjects that interest me, and while this love for learning enhances my ability to lead, sometimes that feels like a side effect of scratching a nerdy itch to learn.
+Beyond the practical benefits the idea of effortless management resonates with my personal sense of elegance. I get a deep satisfaction from the process of learning and refining my understanding and capabilities. This is as true for my hobbies as it is for work. I find joy in delving deeply into subjects that interest me, and while this love for learning enhances my ability to lead, sometimes that feels like a side effect of scratching my itch to learn.
 
 ### Conclusion
 
