@@ -3,8 +3,8 @@ layout: post
 title:  "What is effortless management?"
 date:   2024-05-14 12:00:00
 tags: featured effortless engineering management
-image: /assets/article_images/2024-05-14-what-is-effortless-management/XYZ.jpg
-image2: /assets/article_images/2024-05-14-what-is-effortless-management/XYZ-mobile.jpg
+image: /assets/article_images/2024-05-14-what-is-effortless-management/effortless-growth.jpg
+image2: /assets/article_images/2024-05-14-what-is-effortless-management/effortless-growth-mobile.jpg
 ---
 
 Recently one of my engineers asked me: “What exactly do you mean by ‘effortless management,’ and why does it matter to you?”
@@ -64,3 +64,6 @@ Beyond the practical benefits the idea of effortless management resonates with m
 Effortless management is a transformative approach that emphasizes mastery, empowerment, and a focus on results rather than activity. By valuing teams over individuals, fostering autonomy, and prioritizing long-term development, I find that I create a rewarding work environment that benefits everyone involved. This philosophy has helped me navigate the challenges of transitioning from engineering to management and from managing one team to managing an organization spanning continents, all while allowing me to maximize my impact while minimizing effort.
 
 Ultimately, this approach enhances my satisfaction and performance, aligning with my personal sense of elegance and continuous learning, making it a fulfilling path for both myself and my teams. I hope you find something in my posts here that helps you find this same sense of satisfaction and enjoyment in your management career.
+
+
+*Photo by [Lori Stevens](https://unsplash.com/@lancetraveler60) on [Unsplash](https://unsplash.com/photos/a-tree-growing-out-of-a-rock-in-the-middle-of-a-lake-cQq1tgzyv-Q)*
