@@ -35,7 +35,7 @@ one of my favorite resources for engineers on how to use self-advocacy and docum
 
 2. **Project Updates**: Here engineers list the projects they are currently contributing to. I encourage them
    to keep this list consistent week to week, which helps maintain accountability and track progress over time.
-   This also helps me track how much work I'm assigning to them and guage how they are handling that workload.
+   This also helps me track how much work I'm assigning to them and gauge how they are handling that workload.
 
 3. **Collaboration & Mentorship**: This section highlights the engineer's contributions to mentoring others and
    collaborating with teammates. This reinforces that Staff+ role is a leverage position and much of the value
