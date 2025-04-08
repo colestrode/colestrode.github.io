@@ -1,6 +1,6 @@
 # Build settings
 plugins:
-  - jemoji
+#  - jemoji
   - jekyll-paginate
 
 # Site settings
