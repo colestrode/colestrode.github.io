@@ -46,6 +46,7 @@ This is a running list of articles and books that I've found useful and refer ba
 - [Finding the Right Distance as a Manager](https://leaddev.com/management/finding-right-distance-manager)
 - [Staff+ Archetypes](https://staffeng.com/guides/staff-archetypes/) - A classic for a reason.
 - [Selecting project leads](https://lethain.com/selecting-project-leads/)
+- [Beyond Staff Engineer](https://blog.alexewerlof.com/p/beyond-staff-engineer) - A good insight into Sr Staff and Principal level roles.
 
 ### Managing Teams
 
