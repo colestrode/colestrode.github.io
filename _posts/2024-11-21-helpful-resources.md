@@ -9,8 +9,6 @@ image2: /assets/article_images/2024-11-21-helpful-resources/library-mobile.jpg
 
 This is a running list of articles and books that I've found useful and refer back to.
 
-Jump to:
-
 - [Articles](#articles)
   - [Managing yourself](#managing-yourself)
   - [Managing People](#managing-people)
