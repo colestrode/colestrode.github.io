@@ -19,8 +19,8 @@ and leadership coaching programs.
 
 Through all this I've found that engineering managment skills are best applied with empathy. I also find that the more I practice these skills,
 the easier management becomes. In my best moments, the teams run themselves and the work feels effortless. It's not magic, it's mostly
-just practice. You can read more about my approach in [What is effortless management](2024-05-14-what-is-effortless-management.md) and
-look through some of my [recommended resources](2024-11-21-helpful-resources.md).
+just practice. You can read more about my approach in [What is effortless management](/2024-05-14-what-is-effortless-management.md) and
+look through some of my [recommended resources](/2024-11-21-helpful-resources.md).
 
 In my spare time knit (yes, I made those socks!), run long distances, spend time with my family, and read any scary book I can get my hands on.
 
