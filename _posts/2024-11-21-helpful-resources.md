@@ -94,8 +94,6 @@ _Lara Hogan_
 This focuses on the pure management skills for tech leadership. A really good resource.
 I love everything Lara Hogan writes, it's all very simple and to the point.
 
-<script src="https://bookshop.org/widgets.js" data-type="book" data-affiliate-id="112729" data-sku="9798218472276"></script>
-
 ### The Agile Culture
 
 _Pixton, Gibson, & Nickolaisen_
