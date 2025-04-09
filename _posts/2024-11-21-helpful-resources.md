@@ -37,8 +37,8 @@ This is a running list of articles and books that I've found useful and refer ba
 
 ### Managing People
 
-- 💯 [Begin with Trust](https://hbr.org/2020/05/begin-with-trust) - High performance starts with trust and vulnerability.
-- 💯 [Core needs: BICEPS Model](https://www.palomamedina.com/biceps) - A very useful model from Paloma Medina.
+- :100: [Begin with Trust](https://hbr.org/2020/05/begin-with-trust) - High performance starts with trust and vulnerability.
+- :100: [Core needs: BICEPS Model](https://www.palomamedina.com/biceps) - A very useful model from Paloma Medina.
 - [Questions for BICEPS core needs](https://larahogan.me/blog/questions-for-biceps-core-needs/) - Getting deeper on core needs
 - [One on One Format](https://marcgg.com/blog/2021/03/27/one-on-one-format/)
 - [Managing High Performers](https://blog.startupstash.com/communication-high-performers-and-keeping-up-with-the-expectations-657f7eb8990c)
@@ -50,13 +50,13 @@ This is a running list of articles and books that I've found useful and refer ba
 
 ### Managing Teams
 
-- 💯 [To Build a Top-Performing Team, Ask for 85% Effort](https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort) - Why you should
+- :100: [To Build a Top-Performing Team, Ask for 85% Effort](https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort) - Why you should
 never optimize for utilization.
 - [Tuckman's Stages of Group Development](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx) - Important dynamics to understand at each stage of growth for a team with clear guidance for leaders.
 
 ### Organizational Structure
 
-- 💯 [Conway's Law in Team Topologies: Did You Really Get It?](https://medium.com/@fwynyk/conways-law-in-team-topolgies-did-you-really-get-it-69c1a4d702af) - It's about relationships not team structure.
+- :100: [Conway's Law in Team Topologies: Did You Really Get It?](https://medium.com/@fwynyk/conways-law-in-team-topolgies-did-you-really-get-it-69c1a4d702af) - It's about relationships not team structure.
 - [Your AI Team is Slowing Down Your Company](https://medium.com/aleph-vc/your-ai-team-is-slowing-down-your-company-c95d97a1c3eb)
 
 ### Reliability
@@ -106,7 +106,6 @@ _Patrick Lencioni_
 
 An excellent and very readable book on the necessary steps of building a high performing, committed team.
 
-
 ### Lean Software Development
 
 _Mary Poppendieck and Tom Poppendieck_
@@ -119,7 +118,6 @@ _Eliyahu M Goldratt_
 
 Definitely dated in its attitudes, but at its core a very good book on understanding and adapting to constraints. It's written as a narrative,
 skip any section about the main character's personal life and focus on the business stuff.
-
 
 ## Newsletters
 
