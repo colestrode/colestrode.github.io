@@ -79,8 +79,8 @@ never optimize for utilization.
 
 ### Bookshop.org Library
 
-I keep a list of my favorite managerial and engineering books on Bookshop.org. Full disclosure I get a small commission for any 
-books purchased through my storefront.
+I keep a list of my [favorite managerial and engineering books](https://bookshop.org/lists/the-effortless-manager-library) on Bookshop.org.
+Full disclosure I get a small commission for any books purchased through my storefront.
 
 <script src="https://bookshop.org/widgets.js" data-type="list" data-list-slug="the-effortless-manager-library"></script>
 
