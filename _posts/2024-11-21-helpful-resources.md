@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Helpful resources"
+permalink: /resources/
 date:   2024-11-21 12:00:00
 tags:  resources articles books 
 image: /assets/article_images/2024-11-21-helpful-resources/library.jpg
