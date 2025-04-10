@@ -19,12 +19,8 @@ This is a running list of articles and books that I've found useful and refer ba
   - [Prioritization](#prioritization)
   - [Other Resources](#other-resources)
 - [Books](#books)
-  - [The Manager's Path](#the-managers-path)
-  - [Resilient Management](#resilient-management)
+  - [Bookshop.org Library](#bookshoporg-library)
   - [The Agile Culture](#the-agile-culture)
-  - [The Five Dysfunctions of a Team](#the-five-dysfunctions-of-a-team)
-  - [Lean Software Development](#lean-software-development)
-  - [The Goal](#the-goal)
 - [Newsletters](#newsletters)
 
 ## Articles
@@ -81,43 +77,20 @@ never optimize for utilization.
 
 ## Books
 
-### The Manager's Path
+### Bookshop.org Library
 
-_Camille Fournier_
+I keep a list of my favorite managerial and engineering books on Bookshop.org. Full disclosure I get a small commission for any 
+books purchased through my storefront.
 
-A great resource for understanding the different roles you'll have through your career. Also some really good advice on how to work with your manager.
-
-### Resilient Management
-
-_Lara Hogan_
-
-This focuses on the pure management skills for tech leadership. A really good resource.
-I love everything Lara Hogan writes, it's all very simple and to the point.
+<script src="https://bookshop.org/widgets.js" data-type="list" data-list-slug="the-effortless-manager-library"></script>
 
 ### The Agile Culture
 
 _Pixton, Gibson, & Nickolaisen_
 
-Building high performing teams by building a culture of high ownership and high trust.
+One of my absolute favorites! This book outlines ways of creating high performing teams by building a culture of high ownership and high trust.
 
-### The Five Dysfunctions of a Team
-
-_Patrick Lencioni_
-
-An excellent and very readable book on the necessary steps of building a high performing, committed team.
-
-### Lean Software Development
-
-_Mary Poppendieck and Tom Poppendieck_
-
-The "why" behind the way we build and deploy software.
-
-### The Goal
-
-_Eliyahu M Goldratt_
-
-Definitely dated in its attitudes, but at its core a very good book on understanding and adapting to constraints. It's written as a narrative,
-skip any section about the main character's personal life and focus on the business stuff.
+I haven't been able to find this one on Boookshop.org, but it is on other platforms.
 
 ## Newsletters
 
