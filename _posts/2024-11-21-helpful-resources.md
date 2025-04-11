@@ -91,7 +91,7 @@ _Pixton, Gibson, & Nickolaisen_
 
 One of my absolute favorites! This book outlines ways of creating high performing teams by building a culture of high ownership and high trust.
 
-I haven't been able to find this one on Boookshop.org, but it is on other platforms.
+I haven't been able to find this one on Boookshop.org, but you can buy it from [their website](http://www.theagileculture.com/).
 
 ## Newsletters
 
