@@ -7,9 +7,8 @@ plugins:
 title: "The Effortless Manager"
 description: Yet Another Blog about engineering management
 
-#email: a-mail@mail.mail
-#blog logo
-logo: "/assets/images/em_logo.jpeg"
+email: cole@theeffortlessmanager.com
+logo: "/assets/images/em_logo.jpeg" #blog logo
 float_logo: true # true, false (default)
 
 # blog cover
@@ -23,11 +22,11 @@ paginate:	5
 
 url: "https://theeffortlessmanager.com" # the base hostname & protocol for your site
 baseurl: ""
-#used to display twitter cards
-#twitter_handle: '@dirkfabisch'
 
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+timezone: "America/New_York"
+future: false # hide future posts
+unpublished: false # hide unpublished posts
+
 
 #google_analytics: UA-XXXXX-X
 google_tag_manager: G-FXJL4J0WT7
@@ -40,13 +39,6 @@ social:
 #    share_url: http://twitter.com/share
 #    share_title: ?text=
 #    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
 
   - icon:	github
     url:	https://github.com/colestrode
@@ -61,10 +53,3 @@ social:
     share_url:
     share_title:
     share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
