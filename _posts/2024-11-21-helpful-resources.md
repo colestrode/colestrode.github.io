@@ -31,11 +31,13 @@ This is a running list of articles and books that I've found useful and refer ba
 - [Career Narratives](https://lethain.com/career-narratives/)
 - [Brag Documents](https://jvns.ca/blog/brag-documents/)
 - [Four Steps to Identifying Your New Role](https://larahogan.me/blog/four-steps-identifying-your-new-role/)
+- [Surviving the organizational side quest](https://www.noidea.dog/blog/surviving-the-organisational-side-quest) - One of the key skills of Staff+ engineers and managers alike!
 
 ### Managing People
 
 - :100: [Begin with Trust](https://hbr.org/2020/05/begin-with-trust) - High performance starts with trust and vulnerability.
 - :100: [Core needs: BICEPS Model](https://www.palomamedina.com/biceps) - A very useful model from Paloma Medina.
+- :100: [Being Glue](https://www.noidea.dog/glue) - What is glue work, how to get credit for it, and how to prioritize the other things more important than glue.
 - [Questions for BICEPS core needs](https://larahogan.me/blog/questions-for-biceps-core-needs/) - Getting deeper on core needs
 - [One on One Format](https://marcgg.com/blog/2021/03/27/one-on-one-format/)
 - [Managing High Performers](https://blog.startupstash.com/communication-high-performers-and-keeping-up-with-the-expectations-657f7eb8990c)
