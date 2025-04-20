@@ -2,7 +2,7 @@
 layout: post
 title:  "One weird trick for empowered, self-managed Staff+ engineers"
 date:   2025-04-01 12:00:00
-tags: featured staff-plus engineering management
+tags: staff-plus engineering management
 image: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-growth.jpg
 image2: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-growth-mobile.jpg
 ---
