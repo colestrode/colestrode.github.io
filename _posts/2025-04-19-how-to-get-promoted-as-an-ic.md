@@ -11,7 +11,7 @@ I've seen many early career engineers become frustrated that they don't get prom
 managers surprised that those engineers expected to be promoted! No one tells you in school that getting promoted is a skill and an active process.
 In this post I hope to shed some light on the steps I use with my team to give them the best chance at success for advancing up a career ladder.
 
-This post takes you on the happy path to getting promoted, so it assumes you have a comptent manager and relatively mature company. It's not meant to
+This post takes you on the happy path to getting promoted, so it assumes you have a competent manager and relatively mature company. It's not meant to
 help you troubleshoot issues with an ineffective manager or dysfunctional company. Maybe I'll get to those topics another time...
 
 ## Understand your context
@@ -50,7 +50,6 @@ Managers face challenges such as budgets, the careers of other employees, limite
 to their superiors as well. Understanding the context in which your manager operates can help you approach them with realism and help prevent the
 disappointment or bad feelings if they can't get you promoted right away.
 
-
  By understanding your manager’s role and working collaboratively, you can create a supportive environment that enhances your chances of promotion.
 
 ### Understand Your Company
@@ -85,7 +84,7 @@ believe you are ready for promotion. Approach this conversation as a partnership
 Keep in mind part of their job is to grow people on their team, so in addition to being invested in you as a person, when you advance it reflects well
 on them too.
 
-Not only do early converstaions give your manager ample time to coach, mentor, and sponsor you through the promotion cycle, often managers will start
+Not only do early conversations give your manager ample time to coach, mentor, and sponsor you through the promotion cycle, often managers will start
 informally raising your name for a promotion months before the promotion cycle begins. Your manager likely can only get a small handful of
 promotions per cycle, so by speaking up early you are giving yourself the best chance of getting promoted later.
 

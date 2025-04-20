@@ -45,13 +45,13 @@ one of my favorite resources for engineers on how to use self-advocacy and docum
    and any documentation efforts. This not only showcases their technical skills but also emphasizes their role in
   of knowledge sharing and building the understanding of their team.
 
-1. **Company Building**: Beyond their immediate projects, I ask engineers to reflect on how they have
+5. **Company Building**: Beyond their immediate projects, I ask engineers to reflect on how they have
    contributed to the company as a whole. This could include efforts in interviewing, improving processes, or
    sharing knowledge with other teams. Recognizing these contributions fosters a sense of belonging and purpose.
    Encouraging wider participation in the company also helps engineers build a network and a reputation.
    These will become important for cross functional projects and driving their career.
 
-2. **What You Learned**: Finally, this section encourages engineers to pursue self-driven learning. Whether
+6. **What You Learned**: Finally, this section encourages engineers to pursue self-driven learning. Whether
    it’s a new technology, a programming language, or a professional skill, documenting their learning journey helps
    reinforce the importance of a growth mindset.
 
