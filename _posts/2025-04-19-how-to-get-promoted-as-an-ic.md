@@ -29,8 +29,10 @@ surprised to learn that promotions do not happen quickly; the journey to advance
 
 ### Understand Yourself
 
-Start by asking yourself why you want to get promoted. Understanding your motivations is crucial. Consider what the new role entails and whether it
-aligns with your interests. Ask yourself if you think you'll find fulfillment in the added responsibilities? Moving up often means increasing
+Your role is to do the professional development necessary to prepare for a promotion and maintain (and improve) that level of skill over time once promoted.
+
+Start by asking yourself why you want to get promoted. Consider what the new role entails and whether it aligns with your interests. Ask
+yourself if you think you'll find fulfillment in the added responsibilities? Moving up often means increasing
 collaboration with others and exercising influence without direct control. Reflect on whether you are comfortable with this dynamic.
 
 Additionally, promotions can bring additional pressure and expectations. Check in with yourself whether you are in a good place to handle these
@@ -54,10 +56,10 @@ disappointment or bad feelings if they can't get you promoted right away.
 
 ### Understand Your Company
 
-You're company's role is to provide clarity about the expectations of every level on the career ladder and set fair, equitable, and predictable
+Your company's role is to provide clear expectations of every level on the career ladder and set fair, equitable, and predictable
 promotion practices.
 
-To effectively navigate your path to promotion, it’s crucial to understand your company’s promotion cycle. Find out how often promotions occur - are
+To navigate your path to promotion it’s important to understand your company’s promotion cycle. Find out how often promotions occur - are
 they annual, bi-annual, or based on project completions? Knowing the timeline will help you plan your career conversations accordingly.
 
 Be aware of any experience or company culture requirements for the positions you aspire to. For example, a requirement for both Senior and
