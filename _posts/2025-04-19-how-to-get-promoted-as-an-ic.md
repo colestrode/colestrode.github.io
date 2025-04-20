@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to get promoted as an engineer"
+title:  "The engineer's path to promotion"
 date:   2025-04-19 12:00:00
 tags:  promotion career 
 image: /assets/article_images/2025-04-19-how-to-get-promoted-as-an-ic/blocks.jpg
