@@ -9,15 +9,15 @@ image2: /assets/article_images/2025-04-25-teams-over-individuals/crew-mobile.jpg
 
 # Why prioritizing teams over individuals is key to engineering leadership success
 
-As engineering leaders we often face the challenge of balancing individual talent with the collective strength of our teams. Over time I’ve developed a leadership philosophy centered on prioritizing **teams over individuals**—and it’s made a profound difference in how my teams operate, grow, and deliver. Furthermore, by focusing on teams, engineers can maintain a healthy work-life balance, take PTO without guilt, and still keep projects on track.
+As engineering leaders we often face the challenge of balancing individual talent with the collective strength of our teams. Over time I’ve developed a leadership philosophy centered on prioritizing **teams over individuals**—and it’s made a real difference in how my teams operate, grow, and deliver. Furthermore, by focusing on teams, engineers can maintain a healthy work-life balance, take PTO without guilt, and grow their careers while keeping projects on track.
 
 I want to share why this philosophy matters, what it looks like in practice, and how it can help you build durable, high-performing engineering teams.
 
 ---
 
-## Defining “teams over individuals in engineering
+## Defining “teams over individuals" in engineering
 
-At its core, this philosophy is about trusting that **everything we need is already in the room**. The combined skills, knowledge, and creativity of the team are enough to solve problems. No single person can (or should!) hold all the answers. Starting from this assertion provides confidence to the team and also elicits creativity and insight in to difficult problems. 
+At its core, this philosophy is about trusting that **everything we need is already in the room**. The combined skills, knowledge, and creativity of the team are enough to solve any problem the team faces. No single person can (or should!) hold all the answers. Starting from this assertion provides confidence to the team and also elicits creativity and insight in to difficult problems. 
 
 In addition to trusting that the team is greater than the sum of it's parts, I also keep three key values for a team-first approach:
 
@@ -96,7 +96,7 @@ By consciously aligning individual goals with the team’s objectives, we foster
 
 ## Leadership and decision-making
 
-<!-- ### How team-first leadership shapes decision-making -->
+### How team-first leadership shapes decision-making
 
 In complex projects, a single person should be responsible for technical design, delivery, and quality to ensure accountability, but they are never expected to go it alone. Their role is to harness the collective wisdom of the team by seeking input from teammates and stakeholders early and often. The burden of work is shared amongst the team, even when one person is responsible for delivery.
 
