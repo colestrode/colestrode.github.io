@@ -9,13 +9,13 @@ image2: /assets/article_images/2025-04-25-teams-over-individuals/crew-mobile.jpg
 
 # Why prioritizing teams over individuals is key to engineering leadership success
 
-As engineering leaders we often face the challenge of balancing individual talent with the collective strength of our teams. Over time I’ve developed a leadership philosophy centered on prioritizing **teams over people**—and it’s made a profound difference in how my teams operate, grow, and deliver. Furthermore, by focusing on teams, engineers can maintain a healthy work-life balance, take PTO without guilt, and still keep projects on track.
+As engineering leaders we often face the challenge of balancing individual talent with the collective strength of our teams. Over time I’ve developed a leadership philosophy centered on prioritizing **teams over individuals**—and it’s made a profound difference in how my teams operate, grow, and deliver. Furthermore, by focusing on teams, engineers can maintain a healthy work-life balance, take PTO without guilt, and still keep projects on track.
 
 I want to share why this philosophy matters, what it looks like in practice, and how it can help you build durable, high-performing engineering teams.
 
 ---
 
-## Defining “teams over people” in engineering
+## Defining “teams over individuals in engineering
 
 At its core, this philosophy is about trusting that **everything we need is already in the room**. The combined skills, knowledge, and creativity of the team are enough to solve problems. No single person can (or should!) hold all the answers. That’s why I emphasize three key values:
 
