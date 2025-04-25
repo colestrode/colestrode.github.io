@@ -23,16 +23,16 @@ In addition to trusting that the team is greater than the sum of it's parts, I a
 
 - **Knowledge is democratized.** It belongs to the team, not siloed in individuals’ heads. Documentation, shared repositories, and open communication are essential to success.
 - **Teams persist, individuals move on.** People come and go, but a well-functioning team persists. We build systems and cultures that keep projects moving regardless of turnover. Individuals should be free to grow their careers, ideally at their current company, without negatively impacting the team.
-- **No “load bearing employees.”** — A "load bearing employee" is someone whose expertise and advice is required (or is _believed_ to be required) to make progress or troubleshoot issues on particular critical systems and/or for a large proportion of a team’s work. 
+- **No “load bearing employees.”** A "load bearing employee" is someone whose expertise and advice is required (or is _believed_ to be required) to make progress or troubleshoot issues on particular critical systems and/or for a large proportion of a team’s work. 
 Engineers who become single points of failure ultimately hurt everyone, especially themselves. The team should be able to function even when losing key employees.
 
 ## Team effectiveness and collaboration
 
 ### The benefits of a team-first mindset
 
-When a team’s success takes priority over individual achievements the results speak for themselves. Teams can tap into their collective knowledge and diverse experiences to produce cleaner, more maintainable code and better documentation. This not only makes the codebase easier to work with but also accelerates the team’s velocity because everyone understands the conventions and decisions behind the work.
+When a team’s success takes priority over individual achievements the results speak for themselves. Teams can tap into their collective knowledge and diverse experiences to produce more resilient architecture, cleaner, more maintainable code, and better documentation. This not only makes the codebase easier to work with but also accelerates the team’s velocity because everyone understands the conventions and decisions behind the work.
 
-Another powerful benefit is durability. When a team is designed to succeed as a unit, it can continue delivering smoothly even as members come and go. This approach eliminates bottlenecks caused by over-reliance on a single expert. Instead, expertise is shared, and work moves forward regardless of who’s available. Plus, when team members can hand off responsibilities confidently, they open doors for growth and mobility within the organization. In other words, if you can’t be replaced, you can’t be promoted.
+Another powerful benefit is durability. When a team is designed to succeed as a unit, it can continue delivering smoothly even as members come and go. This approach eliminates bottlenecks caused by over-reliance on a single expert. Instead, expertise is shared, and work moves forward regardless of who’s available. Plus, when team members can hand off responsibilities confidently, they open doors for growth and mobility within the organization. In other words, if you can’t be replaced, you can’t be promoted!
 
 ---
 
@@ -62,7 +62,7 @@ Constructive conflict becomes possible, allowing the team to surface the best id
 
 ### Mitigating risk and avoiding single points of failure
 
-One of the biggest risks in engineering teams is relying too heavily on a single person for critical knowledge or decisions. Prioritizing the team helps mitigate this risk by encouraging transparency and shared responsibility. Clear code conventions guide where and how decisions are made, while documentation like Architecture Decision Records (ADRs) or RFCs keeps everyone aligned.
+One of the biggest risks in engineering teams is relying too heavily on a single person for critical knowledge or decisions. Prioritizing the team helps mitigate this risk by encouraging transparency and shared responsibility. Clear code conventions guide where and how updates are made, while documentation like Architecture Decision Records (ADRs) or RFCs keeps everyone aligned.
 
 Rotating project assignments and having multiple people involved in key projects further spreads knowledge and reduces dependency on any one individual. This resilience ensures the team can adapt and keep delivering, no matter what changes come their way.
 
@@ -98,9 +98,9 @@ By consciously aligning individual goals with the team’s objectives, we foster
 
 <!-- ### How team-first leadership shapes decision-making -->
 
-In complex projects, a single person may be responsible for technical design, delivery, and quality, but they are never expected to go it alone. Their role is to harness the collective wisdom of the team by seeking input from teammates and stakeholders early and often. The burden of work is shared amongst the team, even when one person is responsible for delivery.
+In complex projects, a single person should be responsible for technical design, delivery, and quality to ensure accountability, but they are never expected to go it alone. Their role is to harness the collective wisdom of the team by seeking input from teammates and stakeholders early and often. The burden of work is shared amongst the team, even when one person is responsible for delivery.
 
-Decisions are documented and reviewed collaboratively through ADRs and RFCs, creating a shared understanding and alignment before development begins. Those decisions, and importantly the context in which they are made, persists long into the future. This approach not only builds ownership for the project lead but also empowers the whole team to move faster and make confident decisions independently, knowing the “why” behind the design, even years after the design was agreed upon.
+Decisions are documented and reviewed collaboratively through ADRs and RFCs, creating a shared understanding and alignment before development begins. Those decisions, and importantly the context in which they are made, persist long into the future. This approach not only builds ownership for the project lead but also empowers the whole team to move faster and make confident decisions independently, knowing the “why” behind the design, even years after the design was agreed upon.
 
 ---
 
