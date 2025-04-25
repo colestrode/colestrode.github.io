@@ -17,7 +17,9 @@ I want to share why this philosophy matters, what it looks like in practice, and
 
 ## Defining “teams over individuals in engineering
 
-At its core, this philosophy is about trusting that **everything we need is already in the room**. The combined skills, knowledge, and creativity of the team are enough to solve problems. No single person can (or should!) hold all the answers. That’s why I emphasize three key values:
+At its core, this philosophy is about trusting that **everything we need is already in the room**. The combined skills, knowledge, and creativity of the team are enough to solve problems. No single person can (or should!) hold all the answers. Starting from this assertion provides confidence to the team and also elicits creativity and insight in to difficult problems. 
+
+In addition to trusting that the team is greater than the sum of it's parts, I also keep three key values for a team-first approach:
 
 - **Knowledge is democratized.** It belongs to the team, not siloed in individuals’ heads. Documentation, shared repositories, and open communication are essential to success.
 - **Teams persist, individuals move on.** People come and go, but a well-functioning team persists. We build systems and cultures that keep projects moving regardless of turnover. Individuals should be free to grow their careers, ideally at their current company, without negatively impacting the team.
