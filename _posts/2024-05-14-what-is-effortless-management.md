@@ -22,7 +22,7 @@ I'll share why this works for me and hopefully you find something of value you c
 
 Effortless management is an approach to engineering management that recognizes that we do our best work when we are our best selves. It's more of a set of values than a specific set of practices. If I had to distill it I'd say an effortless manager values:
 
-* teams over individuals
+* [teams over individuals]({% post_url 2025-04-25-teams-over-individuals %})
 * empowerment and autonomy over command and control
 * long term development over short term wins
 
