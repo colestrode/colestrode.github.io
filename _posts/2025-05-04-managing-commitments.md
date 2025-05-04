@@ -23,7 +23,7 @@ I started experimenting with this new mindset. When I realized I couldn't meet a
 
 Even more unexpectedly, this vulnerability – this open acknowledgment that I couldn't do it all – actually fostered *increased* trust and stronger relationships. By managing expectations and delivering on the renegotiated commitments, I showed a different kind of reliability, one rooted in honesty and ownership.
 
-## Manage the commitment. Don't let it manage you
+## Putting it into practice
 
 What does "managing" a commitment actually look like in practice? It boils down to proactive communication and transparent ownership. The moment you foresee a potential issue – a looming deadline you can't realistically meet, a dependency that's delayed, or a shift in priorities that throws a wrench in the works – you need to raise your hand.
 
@@ -32,6 +32,8 @@ This isn't about making excuses; it's about providing a clear and honest assessm
 Transparency is your superpower here. By clearly laying out the situation and offering a preferred option, you empower your stakeholders to understand the constraints and participate in finding a workable solution. Be prepared to negotiate. Your initial proposal might not be exactly what they hoped for, but your goal is to find a path forward that best meets their needs while remaining realistic for you and your team.
 
 Once you've renegotiated a commitment, you must deliver on that new agreement. This is where trust is built. Showing that you take ownership not just of the initial commitment, but also of managing its evolution, demonstrates reliability and respect for your stakeholders' time and expectations. Setting realistic new goals, even if they aren't the ideal scenario, is far more valuable in the long run than consistently missing overly optimistic targets.
+
+## Manage the commitment. Don't let it manage you.
 
 Ultimately, whether you're an IC or a manager, the core of what I learned from Cheryl remains the same: managing commitments effectively is a cornerstone of strong leadership. It's not about flawlessly meeting every single expectation, which is often unrealistic in our dynamic and demanding field. Instead, it's about embracing transparency, communicating proactively when challenges arise, and taking ownership of the entire process – from the initial agreement to any necessary adjustments. By doing so, you not only set realistic expectations and deliver sustainable results, but you also cultivate trust and build stronger relationships with your stakeholders and teams. By managing the commitment and not letting it manage you, you'll navigate the complexities of software leadership with greater clarity, reduce your risk of burnout, and ultimately, have a more significant and positive impact.
 
