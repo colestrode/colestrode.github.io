@@ -2,7 +2,7 @@
 layout: post
 title:  "Teams over individuals: effortless management for resilient, successful teams"
 date:   2025-04-25 12:00:00
-tags:  teams effortless-management featured
+tags:  teams effortless-management
 image: /assets/article_images/2025-04-25-teams-over-individuals/crew.jpg
 image2: /assets/article_images/2025-04-25-teams-over-individuals/crew-mobile.jpg
 ---
