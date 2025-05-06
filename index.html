@@ -16,7 +16,7 @@ layout: default
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
       <a href={{ "/resources/" | prepend: site.baseurl }}>Resources</a></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-      {% for social in site.social %}
+            {% for social in site.social %}
         {% if social.url %}
             <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
               <i class="fa-brands fa-{{ social.icon }}"></i>
@@ -46,7 +46,7 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-              <!-- , tagged on {% for tag in page.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="/tag/{{tag}}">{{tag}}</a></span>{% endfor %} -->
+              {% if post.tags %}, tagged in {% for tag in post.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="{{ '/tags/#' | append: tag |  prepend: site.baseurl }}">{{tag}}</a></span>{% endfor %}{% endif %}
             </div>
           </div>
         </article>
@@ -68,7 +68,7 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-              <!-- , tagged on {% for tag in page.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="/tag/{{tag}}">{{tag}}</a></span>{% endfor %} -->
+              {% if post.tags %}, tagged in {% for tag in post.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="{{ '/tags/#' | append: tag | prepend: site.baseurl }}">{{tag}}</a></span>{% endfor %}{% endif %}
             </div>
           </div>
         </article>

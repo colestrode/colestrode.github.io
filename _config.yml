@@ -12,7 +12,7 @@ logo: "/assets/images/em_logo.jpeg" #blog logo
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/patrick-fore-0gkw_9fy0eQ-unsplash.jpg"
+cover: "/assets/images/cover.jpg"
 
 name: 'Cole Strode'
 author: 'Cole Strode'
