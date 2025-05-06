@@ -1,0 +1,23 @@
+---
+layout: page
+title: All Tags
+permalink: /tags/
+image: /assets/images/cover.jpg
+image2: /assets/images/cover-mobile.jpg
+---
+
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+<section class="tag-section" id="{{ tag[0] | slugify }}">
+    <h3 class="tag-title">{{ tag[0] }}</h3>
+    <ul class="tag-posts">
+        {% assign posts = tag[1] | sort: 'date' | reverse %}
+        {% for post in posts %}
+        <li class="tag-post">
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%B %d, %Y" }}</time>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+{% endfor %}
