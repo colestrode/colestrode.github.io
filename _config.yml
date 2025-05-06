@@ -53,3 +53,15 @@ social:
     share_url:
     share_title:
     share_link:
+
+# Tag pages configuration
+collections:
+  tag_pages:
+    output: true
+    permalink: /tag/:name
+
+defaults:
+  - scope:
+      type: tag_pages
+    values:
+      layout: page
