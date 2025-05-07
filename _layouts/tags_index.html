@@ -10,10 +10,22 @@ image2: /assets/images/cover-mobile.jpg
 <div class="post-list">
   {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains tag_name" | sort: "date" | reverse %}
   {% for post in tag_posts %}
-    <article class="post-item">
-      <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <span class="post-meta date-label">{{ post.date | date: "%b %d, %Y" }}</span>
-    </article>
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+    <div class="article-item">
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
+      </header>
+      <section class="post-excerpt" itemprop="description">
+        <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+      </section>
+      <div class="post-meta">
+        <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+        {% if post.tags %}
+        , tagged in {% for tag in post.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="/tags/{{tag}}">{{tag}}</a></span>{% endfor %}
+        {% endif %}
+      </div>
+    </div>
+  </article>
   {% endfor %}
 </div>
 
