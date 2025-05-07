@@ -46,7 +46,7 @@ The main goal here is real-time exchange and getting people's attention focused 
 
 * **Real-time Information Push:** They notify the *present* audience when something needs attention *now*.
 * **Shared Context (in the moment):** They help teams align quickly on current tasks among those currently engaged.
-* **Knowing Where to Look for Urgency:** When everyone uses the agreed communication tool, the *present* team
+* **Knowing Where to Look for Urgency:** When everyone uses the agreed communication tool, the *present* team can stay focused and respond quickly.
 
 This ability to push information and grab attention in real-time for the *present* audience is their defining characteristic. They optimize for the *current* conversation.
 
