@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Your Team's Information Getting Lost? The Docs vs. Chat Problem"
+title:  "Is Your Team's Information Getting Lost? Making Sense of Communication and Documentation Systems"
 date:   2025-05-07 12:00:00
 tags:  communication miscommunication project-management featured
 image: /assets/article_images/2025-05-07-communication-vs-documenation-systems/info.jpg
@@ -18,6 +18,8 @@ What was happening? Adam was essentially using Asana, which our team primarily t
 This experience hammered home a critical lesson: understanding the fundamental nature and intended audience of the systems we use – whether for documentation or communication – isn't just about tool preference; it's essential for preventing frustration, avoiding missed expectations, and ensuring that crucial information actually lands with the right people at the right time.
 
 Let's dive into what makes documentation and communication systems different, and how using them intentionally can help us avoid "Adam" situations and build smoother, more effective teamwork.
+
+![Documentation vs Communication Systems](/assets/article_images/2025-05-07-communication-vs-documenation-systems/pull-vs-push.png)
 
 ### Documentation Systems: The Persistent Memory Keepers (Built for the Future Audience)
 
@@ -42,7 +44,7 @@ The main goal here is real-time exchange and getting people's attention focused 
 
 * **Real-time Information Push:** They notify the *present* audience when something needs attention *now*.
 * **Shared Context (in the moment):** They help teams align quickly on current tasks among those currently engaged.
-* **Knowing Where to Look for Urgency:** When everyone uses the agreed communication tool, the *present* team knows where to expect timely messages that require a quick response from them.
+* **Knowing Where to Look for Urgency:** When everyone uses the agreed communication tool, the *present* team
 
 This ability to push information and grab attention in real-time for the *present* audience is their defining characteristic. They optimize for the *current* conversation.
 
@@ -58,6 +60,10 @@ Trying to make communication systems serve as documentation results in **fragmen
 
 ### The Friction: The Mistake of Expecting Attention Where It Doesn't Live
 
+Documentation systems are not meant for real-time communication or attention-getting. When we try to use them this way, we create friction and frustration.
+
+![The Friction of Documentation Systems](/assets/article_images/2025-05-07-communication-vs-documenation-systems/documentation-attention-friction.png)
+
 This is precisely why trying to force communication systems to serve as documentation systems creates major friction and leads directly to frustrations, missed expectations, and fractured communication flows. The biggest friction happens when we try to use a documentation system (built for a future audience) to get the attention of the **present** audience *right now*.
 
 A common example is adding a crucial comment or update to a wiki page or a ticket and assuming the relevant people will see it immediately. While comments on documentation are great for capturing context *within* that document for anyone who reads it later, they are **not** effective mechanisms for demanding the *present* team's attention *right now*.
@@ -67,6 +73,8 @@ Why does this fail? Because documentation systems are optimized for future disco
 ### Finding Harmony: Document There, Direct Attention Here (Linking Future and Present)
 
 The good news is that these systems work together beautifully when used for their intended purposes. The most effective practice is simple, but powerful:
+
+![Documentation and Communication Working Together](/assets/article_images/2025-05-07-communication-vs-documenation-systems/documentation-communication-harmony.png)
 
 * **Capture your detailed information, decisions, and context in the documentation system.** This is where the persistent, discoverable source of truth belongs, ready for that future audience (or anyone who pulls it up later).
 * **Then, use your communication system to notify the relevant present audience that their attention is needed regarding that documented information.** Send a clear message in the team's communication channel: "Hey team, I've added the finalized proposal and technical details to the design doc [link here]. Please take a look and add your sign-off comments on the doc by EOD tomorrow."
