@@ -1,0 +1,41 @@
+name: Generate Tag Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**'
+      - '_plugins/**'
+      - '_layouts/**'
+      - '_config.yml'
+
+jobs:
+  generate-tags:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Generate tag pages
+        run: |
+          ./scripts/generate_tag_pages.sh
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add tag/
+          git commit -m "Auto-generate tag pages" || exit 0
+          git push
