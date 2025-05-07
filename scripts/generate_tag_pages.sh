@@ -4,30 +4,34 @@
 rm -rf tags/* _tag_pages/*
 mkdir -p tags _tag_pages
 
-# Get tags from all posts and clean them up
+# Create individual tag pages from Jekyll tags
 find _posts -type f -name "*.md" -exec grep -h "^tags:" {} \; | \
-  sed 's/tags:[[:space:]]*\[\?\([^]]*\)\]*/\1/g' | \
+  sed 's/^tags:[[:space:]]*//g' | \
   tr ' ' '\n' | \
-  sed '/^[[:space:]]*$/d' | \
-  sed 's/[^a-zA-Z0-9-]//g' | \
-  sort -u | while read -r tag_name; do
-  
-  if [ ! -z "$tag_name" ]; then
-    cat > "_tag_pages/${tag_name}.md" <<EOF
+  sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | \
+  grep -v '^$' | \
+  sort -u | while read -r tag; do
+    # Remove any remaining quotes and spaces
+    tag=$(echo "$tag" | sed 's/"//g' | sed "s/'//g" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+    
+    if [ ! -z "$tag" ]; then
+      mkdir -p "tags/$tag"
+      cat > "_tag_pages/${tag}.md" <<EOF
 ---
 layout: tags_index
-title: Posts tagged "${tag_name}"
-permalink: /tags/${tag_name}/
-tag: ${tag_name}
+title: Posts tagged "${tag}"
+permalink: /tags/${tag}/
+image: /assets/images/cover.jpg
+image2: /assets/images/cover-mobile.jpg
 ---
 EOF
-  fi
+    fi
 done
 
 # Build the site
 bundle exec jekyll build
 
-# Copy generated tag pages
+# Copy generated tag pages  
 mkdir -p tags
 cp -r _site/tags/* tags/
 

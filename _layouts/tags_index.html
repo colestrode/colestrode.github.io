@@ -11,8 +11,8 @@ image2: /assets/images/cover-mobile.jpg
   {% for post in site.posts %}
     {% if post.tags contains tag_name %}
       <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%b %d, %Y" }}</span>
         <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <span class="post-meta date-label">{{ post.date | date: "%b %d, %Y" }}</span>
       </article>
     {% endif %}
   {% endfor %}
