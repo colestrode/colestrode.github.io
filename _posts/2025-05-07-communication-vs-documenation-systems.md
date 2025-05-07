@@ -84,3 +84,5 @@ By understanding the fundamental nature and intended audience of each – that d
 Using the simple best practice of documenting details in your stable systems and using your attention-grabbing communication tools to notify colleagues about them creates a powerful synergy. And fostering a team-wide understanding of this distinction, coupled with intentional communication practices, is perhaps the most impactful change we can make. It ensures that critical information is not only recorded for posterity but also effectively shared and seen by those who need to act on it now, leading to smoother projects and happier teams.
 
 Ready to leave the chaos and frustration of lost information behind? It starts with a simple practice: document for the future, communicate for the present, and always link the two with intention. Embrace the power of using each tool for its superpower, and watch your team's information flow transform.
+
+_Photo by [Prometheus 🔥](https://unsplash.com/@iamateapot) on [Unsplash](https://unsplash.com/photos/a-purple-sign-with-a-number-on-it-lXmH_Jxz3mM)_
