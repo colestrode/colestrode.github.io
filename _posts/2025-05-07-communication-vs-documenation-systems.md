@@ -42,7 +42,7 @@ The main goal here is real-time exchange and getting people's attention focused 
 
 * **Real-time Information Push:** They notify the *present* audience when something needs attention *now*.
 * **Shared Context (in the moment):** They help teams align quickly on current tasks among those currently engaged.
-* **Knowing Where to Look for Urgency:** When everyone uses the agreed communication tool, the *present* team knows where to expect timely messages that require a quick response from them.
+* **Knowing Where to Look for Urgency:** When everyone uses the agreed communication tool, the *present* team
 
 This ability to push information and grab attention in real-time for the *present* audience is their defining characteristic. They optimize for the *current* conversation.
 
@@ -55,6 +55,8 @@ Trying to use this kind of system for documentation leads to problems because:
 * It's **difficult to remove or clearly mark incorrect or outdated information**, as every message contributed to the conversational flow at the time, even if its content is no longer accurate.
 
 Trying to make communication systems serve as documentation results in **fragmented information, potentially wrong or outdated answers, and slow, painful reconstruction** of past knowledge. This significantly increases the likelihood of misunderstanding critical details later on. Documentation systems solve these problems by consolidating and organizing information, providing stability, and offering clear ways to update or flag content as stale.
+
+![Documentation vs Communication Systems](/assets/article_images/2025-05-07-communication-vs-documenation-systems/pull-vs-push.png)
 
 ### The Friction: The Mistake of Expecting Attention Where It Doesn't Live
 
