@@ -7,8 +7,6 @@ image: /assets/article_images/2025-05-07-communication-vs-documenation-systems/i
 image2: /assets/article_images/2025-05-07-communication-vs-documenation-systems/info-mobile.jpg
 ---
 
-## Doc vs. Talk: Mastering the Systems That Shape How We Build Software (And How to Get Anyone's Attention!)
-
 Let me tell you a story about a time things got... complicated. At a previous job, we had a pretty standard setup: Slack for real-time chat, Jira for tracking tasks, and Asana for higher-level roadmap planning. We had our rhythms, and importantly, we had a shared understanding of how we used each tool.
 
 Then, a new VP joined, let's call him Adam. Adam started using Asana in a way we weren't accustomed to – assigning tasks to me with due dates, but without any direct conversation about them. I only discovered these assignments *days after the deadlines had passed*, buried within a flood of other notifications in my email inbox.
@@ -85,4 +83,4 @@ Using the simple best practice of documenting details in your stable systems and
 
 Ready to leave the chaos and frustration of lost information behind? It starts with a simple practice: document for the future, communicate for the present, and always link the two with intention. Embrace the power of using each tool for its superpower, and watch your team's information flow transform.
 
-_Photo by [Prometheus 🔥](https://unsplash.com/@iamateapot) on [Unsplash](https://unsplash.com/photos/a-purple-sign-with-a-number-on-it-lXmH_Jxz3mM)_
+*Photo by [Prometheus 🔥](https://unsplash.com/@iamateapot) on [Unsplash](https://unsplash.com/photos/a-purple-sign-with-a-number-on-it-lXmH_Jxz3mM)*
