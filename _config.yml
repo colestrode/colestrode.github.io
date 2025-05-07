@@ -3,6 +3,12 @@ plugins:
   - jemoji
   - jekyll-paginate
 
+# Collections
+collections:
+  tag_pages:
+    output: true
+    permalink: /tags/:path/
+
 # Site settings
 title: "The Effortless Manager"
 description: Yet Another Blog about engineering management

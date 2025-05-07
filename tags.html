@@ -9,7 +9,7 @@ image2: /assets/images/cover-mobile.jpg
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 <section class="tag-section" id="{{ tag[0] | slugify }}">
-    <h3 class="tag-title"><a href="/tag/{{tag[0]}}">{{tag[0]}}</a></h3>
+    <h3 class="tag-title"><a href="/tags/{{tag[0]}}">{{tag[0]}}</a></h3>
     <ul class="tag-posts">
         {% assign posts = tag[1] | sort: 'date' | reverse %}
         {% for post in posts %}

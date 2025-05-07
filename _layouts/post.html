@@ -22,7 +22,9 @@
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
               on
               <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-              {% if page.tags %}<div>tagged in {% for tag in page.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="/tag/{{tag}}">{{tag}}</a></span>{% endfor %}</div>{% endif %}
+              {% if page.tags %}
+              <div>tagged in {% for tag in page.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="/tags/{{tag}}">{{tag}}</a></span>{% endfor %}</div>
+              {% endif %}
             </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -35,10 +37,12 @@
             <h1 class="post-title">{{ page.title }}</h1>
             <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
               on
-              <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-              {% if page.tags %}<div>tagged in {% for tag in page.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="/tag/{{tag}}">{{tag}}</a></span>{% endfor %}</div>{% endif %}
+              <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
+              {% if page.tags %}
+              <div>tagged in {% for tag in page.tags %}<span class="post-tag-{{tag}}">{% if forloop.first %}{% else %}, {% endif %}<a href="/tags/{{tag}}">{{tag}}</a></span>{% endfor %}</div>
+              {% endif %}
             </div>
           </div>
         </div>

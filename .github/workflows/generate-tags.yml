@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add tag/
+          git add tags/
           git commit -m "Auto-generate tag pages" || exit 0
           git push

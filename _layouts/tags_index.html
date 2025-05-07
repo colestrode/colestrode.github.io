@@ -1,0 +1,21 @@
+---
+layout: page
+image: /assets/images/cover.jpg
+image2: /assets/images/cover-mobile.jpg
+---
+
+{% assign tag_name = page.url | split: '/' | last %}
+<h1>Posts Tagged "{{ tag_name | capitalize }}"</h1>
+
+<div class="post-list">
+  {% for post in site.posts %}
+    {% if post.tags contains tag_name %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%b %d, %Y" }}</span>
+        <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<p><a href="/tags/">View All Tags</a></p>
