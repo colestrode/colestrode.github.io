@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Your Team's Information Getting Lost? Understanding Communication and Documentation Systems"
+title:  "Is Your Team's Information Getting Lost? Making Sense of Communication and Documentation Systems"
 date:   2025-05-07 12:00:00
 tags:  communication miscommunication project-management featured
 image: /assets/article_images/2025-05-07-communication-vs-documenation-systems/info.jpg
