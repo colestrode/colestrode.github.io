@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Your Team's Information Getting Lost? Making Sense of Communication and Documentation Systems"
+title:  "Is Your Team's Information Getting Lost? Identify Your Documentation and Communication Systems"
 date:   2025-05-07 12:00:00
 tags:  communication miscommunication project-management featured
 image: /assets/article_images/2025-05-07-communication-vs-documenation-systems/info.jpg
@@ -9,15 +9,15 @@ image2: /assets/article_images/2025-05-07-communication-vs-documenation-systems/
 
 Let me tell you a story about a time things got... complicated. At a previous job, we had a pretty standard setup: Slack for real-time chat, Jira for tracking tasks, and Asana for higher-level roadmap planning. We had our rhythms, and importantly, we had a shared understanding of how we used each tool.
 
-Then, a new VP joined, let's call him Adam. Adam started using Asana in a way we weren't accustomed to – assigning tasks to me with due dates, but without any direct conversation about them. I only discovered these assignments *days after the deadlines had passed*, buried within a flood of other notifications in my email inbox.
+Then, a new VP joined, let's call him Bob. Bob started using Asana in a way we weren't accustomed to – assigning tasks to me with due dates, but without any direct conversation about them. I only discovered these assignments *days after the deadlines had passed*, buried within a flood of other notifications in my email inbox.
 
-I remember feeling that double-whammy of embarrassment for missing deadlines I didn't know existed, and the frustration at being blindsided by work and having yet *another* place to check for assignments alongside Jira. Adam was understandably frustrated too because these were tasks that were important to him and he wasn't seeing the results he expected.
+I remember feeling that double-whammy of embarrassment for missing deadlines I didn't know existed, and the frustration at being blindsided by work and having yet *another* place to check for assignments alongside Jira. Bob was understandably frustrated too because these were tasks that were important to him and he wasn't seeing the results he expected.
 
-What was happening? Adam was essentially using Asana, which our team primarily treated as a documentation/planning system requiring users to *pull* information, as if it were a real-time communication system designed to *push* urgent tasks and grab immediate attention. Our established working agreement about how we used Asana wasn't clear to him, and his actions fractured our communication flow.
+What was happening? Bob was essentially using Asana, which our team primarily treated as a documentation/planning system requiring users to *pull* information, as if it were a real-time communication system designed to *push* urgent tasks and grab immediate attention. Our established working agreement about how we used Asana wasn't clear to him, and his actions fractured our communication flow.
 
 This experience hammered home a critical lesson: understanding the fundamental nature and intended audience of the systems we use – whether for documentation or communication – isn't just about tool preference; it's essential for preventing frustration, avoiding missed expectations, and ensuring that crucial information actually lands with the right people at the right time.
 
-Let's dive into what makes documentation and communication systems different, and how using them intentionally can help us avoid "Adam" situations and build smoother, more effective teamwork.
+Let's dive into what makes documentation and communication systems different, and how using them intentionally can help us avoid "Bob" situations and build smoother, more effective teamwork.
 
 ![Documentation vs Communication Systems](/assets/article_images/2025-05-07-communication-vs-documenation-systems/pull-vs-push.png)
 
