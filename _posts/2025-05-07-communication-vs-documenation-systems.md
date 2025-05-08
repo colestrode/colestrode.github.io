@@ -23,7 +23,7 @@ Let's dive into what makes documentation and communication systems different, an
 
 ![Documentation vs Communication Systems](/assets/article_images/2025-05-07-communication-vs-documenation-systems/pull-vs-push.png)
 
-### Documentation Systems: The Persistent Memory Keepers (Built for the Future Audience)
+### Documentation Systems: The Persistent Memory Keepers
 
 Think of your documentation systems as the team's long-term, stable memory, specifically curated for people who will need that information **in the future**. This includes your future self (you'll thank you!), teammates joining later, or anyone needing historical context down the line. Tools like **Confluence (or any wiki), Google Docs, Github (for code, PRs, issues), Jira (or other issue trackers), and Figma** are built to store information that needs to endure and be referenced over time by this future audience.
 
@@ -38,7 +38,7 @@ Documentation systems excel at providing detailed answers to "Why did we decide 
 
 But if documentation is for the future and requires people to *pull* information, how do we handle things *right now* and get the right people's attention when we need it?
 
-### Communication Systems: The Real-Time Connectors (Built for the Present Audience)
+### Communication Systems: The Real-Time Connectors
 
 Now, consider communication systems. These are the tools crafted for immediate interaction and getting information to people who are present and available **right now**. Their primary audience is the team as it exists in the current moment. We're talking about **Slack, Microsoft Teams, Zoom, and (maybe) email**.
 
@@ -66,13 +66,13 @@ Documentation systems are not meant for real-time communication or attention-get
 
 ![The Friction of Documentation Systems](/assets/article_images/2025-05-07-communication-vs-documenation-systems/documentation-attention-friction.png)
 
-This is precisely why trying to force communication systems to serve as documentation systems creates major friction and leads directly to frustrations, missed expectations, and fractured communication flows. The biggest friction happens when we try to use a documentation system (built for a future audience) to get the attention of the **present** audience *right now*.
+This is precisely why trying to force documentation systems to serve as communication systems creates major friction and leads directly to frustrations, missed expectations, and fractured communication flows. The biggest friction happens when we try to use a documentation system (built for a future audience) to get the attention of the **present** audience *right now*.
 
 A common example is adding a crucial comment or update to a wiki page or a ticket and assuming the relevant people will see it immediately. While comments on documentation are great for capturing context *within* that document for anyone who reads it later, they are **not** effective mechanisms for demanding the *present* team's attention *right now*.
 
 Why does this fail? Because documentation systems are optimized for future discovery, not present interruption. They don't have the built-in "push" notifications and attention-grabbing design of communication tools aimed at the here-and-now. Expecting an urgent response to a documentation comment is fighting against the fundamental nature of the tool and its intended audience focus. It forces your present audience to constantly *pull* for updates by actively checking documents, rather than having important needs *pushed* to them. This is where expectations are missed and information gets lost in the lack of directed attention for the people who need to see it now.
 
-### Finding Harmony: Document There, Direct Attention Here (Linking Future and Present)
+### Finding Harmony: Document There, Direct Attention Here
 
 The good news is that these systems work together beautifully when used for their intended purposes. The most effective practice is simple, but powerful:
 
