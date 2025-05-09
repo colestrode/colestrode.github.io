@@ -3,8 +3,8 @@ layout: post
 title:  "When Things Go PEAR-shaped: A Simple Framework for Communicating Technical Problems to Executives"
 date:   2025-05-09 09:28:50
 tags: executive-communication production-incidents engineering-leadership
-image: /assets/article_images/2025-05-09-how-to-communicate-tech-problems-executives-pear/PEARS.jpg
-image2: /assets/article_images/2025-05-09-how-to-communicate-tech-problems-executives-pear/PEARS-mobile.jpg
+image: /assets/article_images/2025-05-09-how-to-communicate-tech-problems-executives-pear/pears.jpg
+image2: /assets/article_images/2025-05-09-how-to-communicate-tech-problems-executives-pear/pears-mobile.jpg
 ---
 
 # When things go PEAR-shaped: A Simple Framework for Communicating Technical Problems to Executives
