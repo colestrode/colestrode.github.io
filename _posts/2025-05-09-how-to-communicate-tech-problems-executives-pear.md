@@ -7,7 +7,7 @@ image: /assets/article_images/2025-05-09-how-to-communicate-tech-problems-execut
 image2: /assets/article_images/2025-05-09-how-to-communicate-tech-problems-executives-pear/pears-mobile.jpg
 ---
 
-# When things go PEAR-shaped: A Simple Framework for Communicating Technical Problems to Executives
+# Meet the PEAR Framework: Your Blueprint for Clear Executive Communication
 
 We've all been there. The tension is palpable. A production incident is impacting users, or a critical customer is facing a frustrating issue. Your team is heads-down, working hard on a fix. Now comes the moment when you need to communicate the situation to the executive team.
 
