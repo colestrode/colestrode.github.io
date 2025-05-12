@@ -52,6 +52,7 @@ This is a running list of articles and books that I've found useful and refer ba
 - :100: [To Build a Top-Performing Team, Ask for 85% Effort](https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort) - Why you should
 never optimize for utilization.
 - [Tuckman's Stages of Group Development](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx) - Important dynamics to understand at each stage of growth for a team with clear guidance for leaders.
+- [The Art of the Tick Tock Doc](https://larahogan.me/blog/the-art-of-the-tick-tock-doc/) - How to effectively communicate change to your team.
 
 ### Organizational Structure
 
