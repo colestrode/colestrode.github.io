@@ -28,10 +28,10 @@ This is a running list of articles and books that I've found useful and refer ba
 
 ### Managing yourself
 
+- :100: [Brag Documents](https://jvns.ca/blog/brag-documents/) - This is probably the one article I recommend more than any other.
+- :100: [Surviving the organizational side quest](https://www.noidea.dog/blog/surviving-the-organisational-side-quest) - One of the key skills of Staff+ engineers and managers alike!
 - [Career Narratives](https://lethain.com/career-narratives/)
-- [Brag Documents](https://jvns.ca/blog/brag-documents/)
-- [Four Steps to Identifying Your New Role](https://larahogan.me/blog/four-steps-identifying-your-new-role/)
-- [Surviving the organizational side quest](https://www.noidea.dog/blog/surviving-the-organisational-side-quest) - One of the key skills of Staff+ engineers and managers alike!
+- [Four Steps to Identifying Your New Role](https://larahogan.me/blog/four-steps-identifying-your-new-role/) - A simple framework to get clear about what you need from your next role.
 
 ### Managing People
 
