@@ -29,6 +29,8 @@ is to capture the variety of work expected of a high-level engineer and make sur
 This format draws inspiration from Julia Evans' excellent article on [brag docs](https://jvns.ca/blog/brag-documents/),
 a resource I highly recommend for engineers looking to use self-advocacy and documentation in their career development.
 
+![Weekly Update Structure](/assets/article_images/2025-04-01-staff-plus-weekly-updates/weekly-update-structure.png)
+
 1. **Top of Mind**: This section allows engineers to voice their most pressing concerns or questions. Whether
    it's upcoming PTO, topics that need immediate attention, or any roadblocks they're facing, this prompt
    ensures we address the most critical issues first. These are the items we'll typically spend the majority of our time discussing.
