@@ -27,7 +27,7 @@ This approach eliminates ambiguity and creates a straightforward path forward. B
 
 ### 1. Remove Bottlenecks
 
-In any organization, especially in software engineering, **we've all seen how** bottlenecks can arise when decisions are delayed or people are waiting for approvals. Default decisions help mitigate this issue by providing a clear course of action. When team members know that they can proceed unless told otherwise, it fosters a sense of autonomy and accelerates progress.
+In any organization, especially in software engineering, we've all seen how bottlenecks can arise when decisions are delayed or people are waiting for approvals. Default decisions help mitigate this issue by providing a clear course of action. When team members know that they can proceed unless told otherwise, it fosters a sense of autonomy and accelerates progress.
 
 ### 2. Keep Communication Clear
 
