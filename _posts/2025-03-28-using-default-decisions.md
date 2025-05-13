@@ -7,6 +7,8 @@ image: /assets/article_images/2025-03-28-using-default-decisions/decision.jpg
 image2: /assets/article_images/2025-03-28-using-default-decisions/decision-mobile.jpg
 ---
 
+# Stop Being the Bottleneck: Default Decisions for Engineering Leaders
+
 As engineering leaders, our primary goal is to enable our teams to build great things efficiently. Yet, so many of us find ourselves tangled in a web of pending approvals and waiting games, the flow of work constantly interrupted. This isn't just inefficient; it pulls our focus away from the strategic work that truly adds value. What if you could regain control of your time and empower your team to move forward autonomously, without sacrificing clarity or alignment?
 
 Your value as a leader is ultimately measured by your team's output: Is it the right thing? Is it done on time? Is it done well? Connecting your team with stakeholders and ensuring clear communication is a crucial part of the role. However, if getting stuck in the middle as the required point for every decision handoff leads to waiting and delays, you can unintentionally become the bottleneck holding back progress.
@@ -29,13 +31,13 @@ This approach eliminates ambiguity and creates a straightforward path forward. B
 
 In any organization, especially in software engineering, we've all seen how bottlenecks can arise when decisions are delayed or people are waiting for approvals. Default decisions help mitigate this issue by providing a clear course of action. When team members know that they can proceed unless told otherwise, it fosters a sense of autonomy and accelerates progress.
 
-### 2. Keep Communication Clear
-
-Default decisions also enhance communication. By clearly stating what will happen unless there is a response, you keep everyone informed about the plans and expectations. This transparency is essential in maintaining trust and alignment within your team. It ensures that everyone is on the same page and knows what to expect, which is especially important in busy environments where time is of the essence.
-
-### 3. Empower Your Team
+### 2. Empower Your Team
 
 When you implement default decisions, you’re not just streamlining processes; you’re also empowering your team. By giving them the authority to move forward with their work, you instill confidence and encourage initiative. This empowerment can lead to increased job satisfaction and a more engaged workforce, as team members feel their contributions are valued and impactful.
+
+### 3. Keep Communication Clear
+
+Default decisions also enhance communication. By clearly stating what will happen unless there is a response, you keep everyone informed about the plans and expectations. This transparency is essential in maintaining trust and alignment within your team. It ensures that everyone is on the same page and knows what to expect, which is especially important in busy environments where time is of the essence.
 
 ### 4. Adapt to Busy Schedules
 
