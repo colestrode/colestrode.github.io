@@ -58,3 +58,5 @@ So, how can you start incorporating default decisions into your leadership style
 Default decisions can make everyone's life easier. By removing bottlenecks, enhancing communication, empowering your team, and adapting to busy schedules, you can create an environment where action is prioritized, and progress is made seamlessly. You bring value to your team and stakeholders, but you also stay out of the way.
 
 As leaders, it’s our responsibility to pave the way for our teams, and default decisions are a simple yet effective tool in our leadership toolkit. So next time you find yourself faced with a decision, consider whether a default decision could help you and your team move forward with confidence and clarity. Start small, experiment with the approach on a routine decision, and observe the positive impact on speed and autonomy. Happy leading!
+
+*Photo by [Vladislav Babienko](https://unsplash.com/@garri) on [Unsplash](https://unsplash.com/photos/man-standing-in-the-middle-of-woods-KTpSVEcU0XU)*
