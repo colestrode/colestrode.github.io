@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "One weird trick for empowered, self-managed Staff+ engineers"
+description: Tackling the unique challenge of managing staff+ ICs
 date:   2025-04-01 12:00:00
 tags: staff-plus engineering management
 image: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-growth.jpg
 image2: /assets/article_images/2025-04-01-staff-plus-weekly-updates/structured-growth-mobile.jpg
 ---
-
-## Tackling The Unique Challenge of Managing Staff+ ICs
 
 If you manage Staff+ engineers, you know they operate differently – they thrive on autonomy, tackle ambiguity, and contribute in myriad ways beyond
 just coding. When I first began managing high-level engineers, I quickly realized this required a different managerial mindset than I had been used

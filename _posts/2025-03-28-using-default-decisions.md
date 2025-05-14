@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Stop Being the Bottleneck: Default Decisions for Engineering Leaders"
+description: Effortless action through default decisions
 date:   2025-03-28 12:00:00
 tags:  decision-making 
 image: /assets/article_images/2025-03-28-using-default-decisions/decision.jpg
 image2: /assets/article_images/2025-03-28-using-default-decisions/decision-mobile.jpg
 ---
-
-## Effortless action through default decisions
 
 As engineering leaders, our primary goal is to enable our teams to build great things efficiently. Yet, so many of us find ourselves tangled in a web of pending approvals and waiting games, the flow of work constantly interrupted. This isn't just inefficient; it pulls our focus away from the strategic work that truly adds value. What if you could regain control of your time and empower your team to move forward autonomously, without sacrificing clarity or alignment?
 

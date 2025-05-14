@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "When Things Go PEAR-shaped: A Simple Framework for Communicating Technical Problems to Executives"
+description: "Meet the PEAR framework: your blueprint for clear executive communication"
 date:   2025-05-09 09:28:50
 tags: executive-communication production-incidents engineering-leadership
 image: /assets/article_images/2025-05-09-how-to-communicate-tech-problems-executives-pear/pears.jpg
 image2: /assets/article_images/2025-05-09-how-to-communicate-tech-problems-executives-pear/pears-mobile.jpg
 ---
-
-# Meet the PEAR Framework: Your Blueprint for Clear Executive Communication
 
 We've all been there. The tension is palpable. A production incident is impacting users, or a critical customer is facing a frustrating issue. Your team is heads-down, working hard on a fix. Now comes the moment when you need to communicate the situation to the executive team.
 

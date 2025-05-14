@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Is Your Team's Information Getting Lost? Identify Your Documentation and Communication Systems"
+description: "How to drive responsiveness without sacrificing your future"
 date:   2025-05-07 12:00:00
 tags:  communication miscommunication project-management
 image: /assets/article_images/2025-05-07-communication-vs-documenation-systems/info.jpg
 image2: /assets/article_images/2025-05-07-communication-vs-documenation-systems/info-mobile.jpg
 ---
-
-## Push and Pull: A Tale of Frustration!
 
 Let me tell you a story about a time things got... complicated. At a previous job, we had a pretty standard setup: Slack for real-time chat, Jira for tracking tasks, and Asana for higher-level roadmap planning. We had our rhythms, and importantly, we had a shared understanding of how we used each tool.
 

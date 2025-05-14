@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The engineer's path to promotion"
+description: "How to work with your manager to get the best chance at promotion"
 date:   2025-04-19 12:00:00
 tags:  promotion career
 image: /assets/article_images/2025-04-19-how-to-get-promoted-as-an-ic/blocks.jpg
