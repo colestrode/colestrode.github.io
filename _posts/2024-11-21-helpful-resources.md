@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Helpful resources"
+description: A running list of articles and books that I've found useful and refer back to
 permalink: /resources/
 date:   2024-11-21 12:00:00
 tags:  resources articles books 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Avoid Burnout, Build Trust: The Leader's Guide to Managing Commitments"
+description: Manage the commitment. Don't let it manage you.
 date:   2025-05-04 12:00:00
 tags:  commitments
 image: /assets/article_images/2025-05-04-managing-commitments/balance.jpg

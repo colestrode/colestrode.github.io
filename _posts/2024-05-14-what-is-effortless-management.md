@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "What is effortless management?"
+description: Finding the flow in management
 date:   2024-05-14 12:00:00
 tags: featured effortless engineering-management
 image: /assets/article_images/2024-05-14-what-is-effortless-management/effortless-growth.jpg
 image2: /assets/article_images/2024-05-14-what-is-effortless-management/effortless-growth-mobile.jpg
 ---
-
-## Finding the flow in management
 
 Recently one of my engineers asked me: “What exactly do you mean by ‘effortless management’?”
 It struck me that while I had used this phrase a lot (and even registered a domain name for it...), I had never truly articulated the concept before, despite it being a core principle in my approach to leadership. I also realized that without context this made me sound like an unengaged, disinterested, and lazy manager, rather than the fully engaged, empowering leader I like to be. I suspect this is what his question was hinting at!

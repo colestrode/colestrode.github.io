@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Teams over individuals: effortless management for resilient, successful teams"
+description: Why prioritizing teams over individuals is key to engineering leadership success
 date:   2025-04-25 12:00:00
 tags:  teams effortless-management
 image: /assets/article_images/2025-04-25-teams-over-individuals/crew.jpg
 image2: /assets/article_images/2025-04-25-teams-over-individuals/crew-mobile.jpg
 ---
-
-# Why prioritizing teams over individuals is key to engineering leadership success
 
 As engineering leaders we often face the challenge of balancing individual talent with the collective strength of our teams. Over time I’ve developed a leadership philosophy centered on prioritizing **teams over individuals**—and it’s made a real difference in how my teams operate, grow, and deliver. Furthermore, by focusing on teams, engineers can maintain a healthy work-life balance, take PTO without guilt, and grow their careers while keeping projects on track.
 
