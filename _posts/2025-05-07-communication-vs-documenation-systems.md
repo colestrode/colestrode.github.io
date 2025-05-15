@@ -54,10 +54,11 @@ However, relying *only* on these fast-moving streams, especially when you need i
 Trying to use this kind of system for documentation leads to problems because:
 
 * Information is inherently **spread out and disorganized** across many messages.
+* Corporate retention policies will **automatically purge messages** over time, removing knowledge an context from the system.
 * Getting meaningful information requires **reconstructing context** by sifting through previous messages, understanding who was involved, and what the shared understanding was at that exact moment.
 * It's **difficult to remove or clearly mark incorrect or outdated information**, as every message contributed to the conversational flow at the time, even if its content is no longer accurate.
 
-Trying to make communication systems serve as documentation results in **fragmented information, potentially wrong or outdated answers, and slow, painful reconstruction** of past knowledge. This significantly increases the likelihood of misunderstanding critical details later on. Documentation systems solve these problems by consolidating and organizing information, providing stability, and offering clear ways to update or flag content as stale.
+Trying to make communication systems serve as documentation results in **fragmented information, potentially wrong or outdated answers, and slow, painful reconstruction** of past knowledge, all of which will eventually vanish from the system! This significantly increases the likelihood of misunderstanding critical details later on. Documentation systems solve these problems by consolidating and organizing information, providing stability and persistence, and offering clear ways to update or flag content as stale.
 
 ### The Friction: The Mistake of Expecting Attention Where It Doesn't Live
 
