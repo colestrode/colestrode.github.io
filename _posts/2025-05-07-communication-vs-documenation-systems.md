@@ -54,7 +54,7 @@ However, relying *only* on these fast-moving streams, especially when you need i
 Trying to use this kind of system for documentation leads to problems because:
 
 * Information is inherently **spread out and disorganized** across many messages.
-* Corporate retention policies will **automatically purge messages** over time, removing knowledge an context from the system.
+* Corporate retention policies will **automatically purge messages** over time, removing knowledge and context from the system.
 * Getting meaningful information requires **reconstructing context** by sifting through previous messages, understanding who was involved, and what the shared understanding was at that exact moment.
 * It's **difficult to remove or clearly mark incorrect or outdated information**, as every message contributed to the conversational flow at the time, even if its content is no longer accurate.
 
