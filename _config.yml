@@ -2,6 +2,7 @@
 plugins:
   - jemoji
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Collections
 collections:
