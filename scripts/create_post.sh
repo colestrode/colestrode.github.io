@@ -20,6 +20,7 @@ if [ ! -f "$post_file" ]; then
 ---
 layout: post
 title:  ""
+description: ""
 date:   $(date "+%Y-%m-%d %H:%M:%S")
 tags: 
 image: /assets/article_images/${date}-${post_name}/XYZ.jpg
