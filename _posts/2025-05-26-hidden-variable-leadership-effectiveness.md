@@ -31,7 +31,7 @@ Knowledge and context can be acquired. Time is finite, but is a well-known const
 
 You can have a clear calendar, perfect documentation, and a capable team. But if your energy is tapped out, your leadership stalls. You’ll struggle to make decisions, lead conversations, or even think clearly. Time and information alone can’t compensate.
 
-All the time in the world won't deliver you an effective strategy if you have no creative energy left to create. Weekly 1:1s won't develop an employee if you don't have the emotional bandwidth for empathy and insight.
+All the time in the world won't deliver you an effective strategy if you have no creative energy left to ideate. Weekly 1:1s won't develop an employee if you don't have the emotional bandwidth for empathy and insight.
 
 ## Common Energy Drains to Watch For
 
@@ -55,7 +55,7 @@ Once you recognize your energy as the limiting reagent, the next step is protect
 
 - **Learn yourself.** Pay attention to your natural energy rhythms—not just when you're tired, but also when you're at your best. Taking breaks is important, but so is aligning your deep work with your peak energy. For example, I find my best deep focus time is first thing in the morning until around 11 a.m.—that’s when I do strategic planning or work on communication plans. I also tend to get a second wind around 4 p.m., which is a great window for creative problem-solving. I find my energy trough is around 3:30 p.m., so I usually schedule a break. I will read, walk, or catch up with my family during this time. Understanding these patterns helps me schedule the right work at the right time, and keeps my energy aligned with my priorities.
 
-- **Tend the tool.** Leadership is cognitive and emotional labor—and that means physical and mental resources matter. Do things that replenish energy and use your energy more intentionally. Eat. Hydrate. Move. Learn to recognize signals that your energy is waning or that you're burning too bright. Beware sugar and caffeine. They push you through now but crash you later. Worse, the effects make it difficult to rest or sleep when your body needs it, making it hard to replenish your energy.
+- **Tend the tool.** Leadership is cognitive and emotional labor—and that means physical and mental resources matter. Do things that replenish energy and use your energy more intentionally. Eat. Hydrate. Move. Learn to recognize signals that your energy is waning or that you're burning too bright. Beware of sugar and caffeine. They push you through now but crash you later. Worse, the effects make it difficult to rest or sleep when your body needs it, making it hard to replenish your energy.
 
 ### Prioritize with Purpose
 
@@ -65,7 +65,7 @@ You can also focus on how you prioritize work. I find the [Eisenhower Matrix](ht
 
 - **Actively manage your calendar.** Block time for follow-ups or focused work, and treat that time as sacred. When people want to schedule over it, make it an active conversation. This lightens your cognitive load—you don’t have to remember everything, because it’s written down and protected. There is also a subtle energizing shift in being an active participant in how your time is spent.
 
-- **Do the damn thing.** A friend of mine's father owned a successful local grocery. One of his rules for himself was "if it takes less than five minutes, just do it." Some things require so little time it's actually more effort to remember the follow-up. Just do the damn thing. Sometimes the most energy-efficient move is action. Avoiding tiny tasks burns more mental fuel than just doing them.
+- **Do the damn thing.** A friend of mine's father owned a successful local grocery. One of his rules for himself was "if it takes less than five minutes, just do it." Sometimes the most energy-efficient move is action. Avoiding tiny tasks burns more mental fuel than just doing them. Just do the damn thing.
 
 ## Leading from a Full Tank
 
