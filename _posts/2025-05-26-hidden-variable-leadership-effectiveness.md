@@ -61,7 +61,7 @@ Once you recognize your energy as the limiting reagent, the next step is protect
 
 You can also focus on how you prioritize work. I find the [Eisenhower Matrix](https://asana.com/resources/eisenhower-matrix) helpful for sorting tasks by urgency and importance—so I can focus on what truly matters, delegate what I can, and drop the rest.
 
-- **Delegate and systematize.** Not everything needs your direct oversight. Build systems that help others manage themselves, and delegate clearly. Fewer open loops means less mental overhead for you. The bonus is that this builds up an effective team around you, meaning that eventually you need less energy by building up a sustainable, resilient organization.
+- **Delegate and systematize.** Not everything needs your direct oversight. Build systems that help others [manage themselves]({% post_url 2025-04-01-staff-plus-weekly-updates %}), and delegate clearly. Fewer open loops means less mental overhead for you. The bonus is that this builds up an effective team around you, meaning that eventually you need less energy by building up a sustainable, resilient organization.
 
 - **Actively manage your calendar.** Block time for follow-ups or focused work, and treat that time as sacred. When people want to schedule over it, make it an active conversation. This lightens your cognitive load—you don’t have to remember everything, because it’s written down and protected. There is also a subtle energizing shift in being an active participant in how your time is spent.
 
