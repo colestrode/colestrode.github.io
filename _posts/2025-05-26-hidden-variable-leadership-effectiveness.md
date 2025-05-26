@@ -61,7 +61,7 @@ Once you recognize your energy as the limiting reagent, the next step is protect
 
 You can also focus on how you prioritize work. I find the [Eisenhower Matrix](https://asana.com/resources/eisenhower-matrix) helpful for sorting tasks by urgency and importance—so I can focus on what truly matters, delegate what I can, and drop the rest.
 
-- **Delegate and systematize.** Not everything needs your direct oversight. Build systems that help others [manage themselves]({% post_url 2025-04-01-staff-plus-weekly-updates %}), and delegate clearly. Fewer open loops means less mental overhead for you. The bonus is that this builds up an effective team around you, meaning that eventually you need less energy by building up a sustainable, resilient organization.
+- **Delegate and systematize.** Not everything needs your direct oversight. Build systems that help others [manage themselves]({% post_url 2025-04-01-staff-plus-weekly-updates %}), and delegate clearly. Fewer open loops means less mental overhead for you. The bonus is that this creates up an effective team around you, meaning that eventually you need less energy by running a sustainable, resilient organization.
 
 - **Actively manage your calendar.** Block time for follow-ups or focused work, and treat that time as sacred. When people want to schedule over it, make it an active conversation. This lightens your cognitive load—you don’t have to remember everything, because it’s written down and protected. There is also a subtle energizing shift in being an active participant in how your time is spent.
 
@@ -71,7 +71,7 @@ You can also focus on how you prioritize work. I find the [Eisenhower Matrix](ht
 
 When you start managing energy—not just time—you’ll feel the shift. Your days become less frantic. In high-pressure situations, you’ll find yourself operating with more mental stillness and clarity. That clarity leads to better decisions, more intentional leadership, and clearer direction for your team.
 
-Energy isn’t indulgent. It’s foundational. Treat it like the rate-limiting reagent it is and when your team needs real leadership, you’ll have the capacity to deliver it.
+Energy management isn’t indulgent. It’s foundational. Treat energy like the rate-limiting reagent it is and when your team needs real leadership, you’ll have the capacity to deliver it.
 
 Communicating schedule changes to my team and stakeholders wasn’t comfortable—but it made all the difference in my ability to lead well. When you protect your energy, you show up as the leader your team needs.
 
