@@ -76,3 +76,6 @@ Energy management isn’t indulgent. It’s foundational. Treat energy like the 
 Communicating schedule changes to my team and stakeholders wasn’t comfortable—but it made all the difference in my ability to lead well. When you protect your energy, you show up as the leader your team needs.
 
 **Where is your energy going today—and is it where it matters most?**
+
+*Photo by  [Wesley Tingey](https://unsplash.com/@wesleyphotography) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-speedometer-on-a-car-96Lh89zxtJY)*
+      
