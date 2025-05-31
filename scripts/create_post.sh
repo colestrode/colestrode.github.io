@@ -13,6 +13,37 @@ post_name="$1"
 # Get today's date in YYYY-MM-DD format
 date=$(date +%Y-%m-%d)
 
+# Git operations
+echo "Checking git status..."
+
+# Check if we have uncommitted changes
+if ! git diff-index --quiet HEAD --; then
+    echo "You have uncommitted changes. Please commit or stash them first."
+    exit 1
+fi
+
+# Switch to master branch
+echo "Switching to master branch..."
+if ! git checkout master; then
+    echo "Failed to switch to master branch"
+    exit 1
+fi
+
+# Pull latest changes
+echo "Pulling latest changes..."
+if ! git pull origin master; then
+    echo "Failed to pull latest changes"
+    exit 1
+fi
+
+# Create and switch to new branch
+new_branch="${post_name}"
+echo "Creating new branch: $new_branch"
+if ! git checkout -b "$new_branch"; then
+    echo "Failed to create new branch"
+    exit 1
+fi
+
 # Create the post file
 post_file="_posts/${date}-${post_name}.md"
 if [ ! -f "$post_file" ]; then
@@ -51,4 +82,5 @@ else
     echo "Excalidraw directory already exists: $excalidraw_dir"
 fi
 
+echo "You are on branch: $new_branch"
 echo "Done! Now edit $post_file to add your content."
