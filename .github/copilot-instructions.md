@@ -1,6 +1,6 @@
 This repository is a personal blog called The Effortless Manager.
 It uses the Jekyll library to generate pages. It uses liquid markdown.
-It is hosted with Github pages and is deployed via got
+It is hosted with Github pages and is deployed via
 Github Actions.
 
 The script scripts/create_post.sh is used to 
