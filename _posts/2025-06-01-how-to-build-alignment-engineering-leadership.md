@@ -50,7 +50,8 @@ In retrospect, I should have focused on two things:
 
 ## Alignment isn’t compliance
 
-Too often, people confuse alignment with agreement or blind compliance. Alignment isn’t a binary choice. This spectrum helps map the range of responses leaders face — and where active alignment belongs.
+Too often, people confuse alignment with agreement or blind compliance. But alignment isn’t a binary choice — it's a leadership skill that directly affects team effectiveness. This spectrum maps how different levels of resistance, compliance, and alignment impact a team's ability to execute and thrive. The goal isn’t blind agreement, but helping your team reach active alignment — where understanding, engagement, and execution are at their highest.
+
 
 ![The Resistance–Alignment–Compliance Spectrum](/assets/article_images/2025-06-01-how-to-build-alignment-engineering-leadership/alignment-spectrum.png)
 
