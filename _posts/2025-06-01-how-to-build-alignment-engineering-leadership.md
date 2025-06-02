@@ -8,8 +8,6 @@ image: /assets/article_images/2025-06-01-how-to-build-alignment-engineering-lead
 image2: /assets/article_images/2025-06-01-how-to-build-alignment-engineering-leadership/alignment-mobile.jpg
 ---
 
-# Alignment Isn’t Agreement: A Leadership Skill Most Managers Miss
-
 A few years ago, a new CEO, Robert, joined my company. At the time, we had a two-day work-from-home policy. This was pre-Covid, and a lot of us in engineering saw this as a unique benefit of working for this company. However, one of Robert's first changes was mandating a move from two work-from-home days to one.
 
 I thought the change was unnecessary and disruptive. I thought it would hurt retention. My team was upset and I thought I needed to defend them.
@@ -24,7 +22,7 @@ When a new mandate comes down—especially one you don't like—you face a choic
 - You can agree on the surface but quietly resist.
 - Or you can work to understand the decision, find your place in it, and help your team adapt.
 
-Pushing back often costs you more than it actually changes the outcome. And passive agreement without real commitment leaves you ineffective and leaves valid concerns unaddressed.
+Pushing back often costs you more than it actually changes the outcome. And reluctant compliance without real commitment leaves you ineffective and leaves valid concerns unaddressed.
 
 But here’s the part many leaders miss: You don’t have to agree with a decision to align with it.
 
