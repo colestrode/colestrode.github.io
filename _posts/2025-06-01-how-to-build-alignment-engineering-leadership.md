@@ -72,15 +72,11 @@ Like most leadership skills, alignment gets better with practice. A few techniqu
 1. **Pick your battles**  
    Not every hill is worth dying on. Save your political capital for the issues where your team or the business will truly benefit from your advocacy.
 
-2. **Create safe space for your team**  
-   Your team needs room to process change. Let them vent. Listen.  
-   Often, just being heard reduces anxiety. Sometimes you can even help leadership refine how they roll out the change based on your team's feedback.
+2. **Regularly self-assess**  
+   Alignment isn’t forever. Periodically check in if the overall good in your job outweighs the bad. One of my leaders used to call this “checking in on your deal with the company.” No job is perfect and not every job is for everyone. Evaluating your “deal” as a deliberate act is empowering and clarifying.
 
 3. **Stay authentic**  
-   Passive-aggressive alignment fools no one. If you’re going to support a decision, do it sincerely. If you can’t get there, reflect on whether you can stay at the company long-term.
-
-4. **Regularly self-assess**  
-   Alignment isn’t forever. Periodically check in if the overall good in your job outweighs the bad. One of my leaders used to call this “checking in on your deal with the company.” No job is perfect and not every job is for everyone. Evaluating your “deal” as a deliberate act is empowering and clarifying.
+   Passive-aggressive alignment fools no one. If you’re going to support a decision, do it sincerely. If this is a truly a deal-breaker for you, take time to reflect on why and map your next steps.
 
 ## Helping your team align
 
@@ -88,17 +84,16 @@ Even after you’ve personally reached alignment with a decision, your team may 
 
 Be upfront about what’s realistically possible. Some decisions may have limited room for adjustment, while others may still be open to influence. Let your team know what the feedback channels look like, what you’re doing to advocate for their concerns, and where the boundaries are.
 
-- Acknowledge their concerns. Don’t dismiss frustrations. Validate what’s hard about the change.
-- Explain the “why.” Share the broader context you’ve learned. Often frustration comes from gaps in understanding.
-- Model your own alignment. Teams take cues from how you show up. Consistency between your words and actions helps them feel safe following your lead.
-- Spot real blockers. Sometimes concerns reveal legitimate risks or unintended consequences. Escalate those thoughtfully, but avoid presenting every concern as a reason to reverse the decision.
+- **Acknowledge their concerns.** Don’t dismiss frustrations. Validate what’s hard about the change.
+- **Explain the “why.”** Share the broader context you’ve learned. Often frustration comes from gaps in understanding.
+- **Model your own alignment.** Teams take cues from how you show up. Consistency between your words and actions helps them feel safe following your lead.
+- **Spot real blockers.** Sometimes concerns reveal legitimate risks or unintended consequences. Escalate those thoughtfully, but avoid presenting every concern as a reason to reverse the decision.
 
 Alignment doesn’t mean your team needs to love every decision — but they should feel heard, respected, and confident that you have their best interests in mind as you move forward together.
 
 ## Alignment is contagious
 
-Leaders set the tone.  
-Your team watches how you process tough decisions. If you stay thoughtful, honest, and sincere, your team learns to do the same.
+Leaders set the tone. Your team watches how you process tough decisions. If you stay thoughtful, honest, and sincere, your team learns to do the same.
 
 Alignment isn’t about pretending. It’s about making active, intentional choices — for yourself and your team.
 
