@@ -16,7 +16,7 @@ This is a running list of articles and books that I've found useful and refer ba
   - [Managing People](#managing-people)
   - [Managing Teams](#managing-teams)
   - [Organizational Structure](#organizational-structure)
-  - [Reliability](#reliability)
+  - [Reliability and Resiliency](#reliability-and-resiliency)
   - [Technical Decision Making](#technical-decision-making)
   - [Prioritization](#prioritization)
   - [Other Resources](#other-resources)
@@ -60,8 +60,9 @@ never optimize for utilization.
 - :100: [Conway's Law in Team Topologies: Did You Really Get It?](https://medium.com/@fwynyk/conways-law-in-team-topolgies-did-you-really-get-it-69c1a4d702af) - It's about relationships not team structure.
 - [Your AI Team is Slowing Down Your Company](https://medium.com/aleph-vc/your-ai-team-is-slowing-down-your-company-c95d97a1c3eb)
 
-### Reliability
+### Reliability and Resiliency
 
+- :100: [The Myth of the Sufficiently Smart Engineer](https://www.linkedin.com/pulse/myth-sufficiently-smart-engineer-aaron-blohowiak/) - How embracing the Humble Learner archetype creates a more humane culture and better technology than a Sufficiently Smart Engineer.
 - [Root Cause](https://github.com/readme/guides/root-cause) - John Allspaw on root cause
 
 ### Technical Decision Making
