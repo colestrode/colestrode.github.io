@@ -62,7 +62,7 @@ never optimize for utilization.
 
 ### Reliability and Resiliency
 
-- :100: [The Myth of the Sufficiently Smart Engineer](https://www.linkedin.com/pulse/myth-sufficiently-smart-engineer-aaron-blohowiak/) - How embracing the Humble Learner archetype creates a more humane culture and better technology than a Sufficiently Smart Engineer.
+- :100: [The Myth of the Sufficiently Smart Engineer](https://www.linkedin.com/pulse/myth-sufficiently-smart-engineer-aaron-blohowiak/) - How embracing the Humble Learner archetype creates humane culture and better technology.
 - [Root Cause](https://github.com/readme/guides/root-cause) - John Allspaw on root cause
 
 ### Technical Decision Making
