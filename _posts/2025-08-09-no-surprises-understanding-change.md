@@ -48,7 +48,7 @@ Some changes must be kept confidential until the last moment for legal, strategi
 
 ### Detecting surprise
 
-I rarely ask directly, “Were you surprised by this change?” That’s a closed question with an obvious desired answer. Instead, once the change is rolled out, I invite conversation by asking how it’s going for them or what they think of it so far. I listen for clues that they’re still trying to make sense of the change or its impacts. Some will openly say they were surprised. Others may not say it, but you can often see them wrestling with understanding. Both are signs you may have missed the mark in signaling the change.
+I rarely ask directly, “Were you surprised by this change?” That’s a closed question with an obvious desired answer. Instead, once the change is announced, I invite conversation by asking how the announcement is landing for them or what they think of it so far. I listen for clues that they’re still trying to make sense of the change or its impacts. Some will openly say they were surprised. Others may not say it, but you can often see them wrestling with understanding. Both are signs you may have missed the mark in signaling the change.
 
 I also lean on people I know will give me a clear read. I ask a few trusted individuals on the team for their take on how people are reacting. This lets me get a more accurate picture, especially for those who may not feel comfortable speaking up directly.
 
