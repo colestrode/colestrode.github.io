@@ -10,7 +10,7 @@ image2: /assets/article_images/2025-08-17-consistent-change-messaging-framework/
 
 ## A Lightweight Communication Plan for Meaningful Change
 
-One of the most effective things you can do during a change is to minimize surprise and maximize understanding. I've [written about that before]({% post_url 2025-08-09-no-surprises-understanding-change %}), and today I want to share a simple technique that helps me do exactly that: a lightweight communication plan that keeps messages consistent while tailoring them to different audiences.
+One of the most effective things you can do during a change is to [minimize surprise and maximize understanding]({% post_url 2025-08-09-no-surprises-understanding-change %}). Today I want to share a simple technique that helps me do exactly that: a lightweight communication plan that keeps messages consistent while tailoring them to different audiences.
 
 The key is to draft your core message up front as you plan the change. This allows you to craft communication that is tailored to multiple audiences while staying grounded in the same core story about drivers, outcomes, and impact.
 
