@@ -82,7 +82,7 @@ Here’s a quick self-check:
 * Am I learning from others, or competing with them?
 * Is my environment helping or hindering my progress?
 
-![Run Your Own Race – Career Reminders](/assets/article_images/2025-08-28-career-is-an-individual-sport/reminder.png)
+![Run Your Own Race. One mile at a time.](/assets/article_images/2025-08-28-career-is-an-individual-sport/reminder.png)
 
 ### Enjoy the Run
 
