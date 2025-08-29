@@ -4,8 +4,8 @@ title:  "Your Career Is an Individual Sport"
 description: "Ready to take the next step in your career? Start by choosing your own race—and running it your way."
 date:   2025-08-28 21:27:06
 tags: career-growth self-management professional-development
-image: /assets/article_images/2025-08-28-career-is-an-individual-sport/XYZ.jpg
-image2: /assets/article_images/2025-08-28-career-is-an-individual-sport/XYZ-mobile.jpg
+image: /assets/article_images/2025-08-28-career-is-an-individual-sport/race.jpg
+image2: /assets/article_images/2025-08-28-career-is-an-individual-sport/race-mobile.jpg
 ---
 
 ## Your Career Is an Individual Sport
@@ -82,7 +82,7 @@ Here’s a quick self-check:
 * Am I learning from others, or competing with them?
 * Is my environment helping or hindering my progress?
 
-![Run Your Own Race – Career Reminders Graphic](/assets/article_images/2025-08-28-career-is-an-individual-sport/reminders.png)
+![Run Your Own Race – Career Reminders Graphic](/assets/article_images/2025-08-28-career-is-an-individual-sport/reminder.png)
 
 ### Enjoy the Run
 
@@ -97,3 +97,6 @@ You don’t have to go it alone, but you do have to run your own race. Career gr
 Run your race well—mile by mile—and the satisfaction will follow.
 
 And stay tuned: this post is part one. Up next, we’ll talk about the other side of the equation—why *Software Development Is a Team Sport*.
+
+*Photo by [sporlab](https://unsplash.com/@sporlab) on [Unsplash](https://unsplash.com/photos/pair-of-blue-and-white-adidas-running-shoes-XiZ7pRvCzro)*
+      
