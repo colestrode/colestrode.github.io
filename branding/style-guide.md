@@ -30,7 +30,7 @@ Below is the palette for the brand. Short names and hex values are provided for 
 
 ```mermaid
 flowchart LR
-  A[ ]:::c222222 --- B[ ]:::cFFFFFF --- C[ ]:::cF4F4F4 --- D[ ]:::c6C757D --- E[ ]:::c2A9D8F --- F[ ]:::c2F5233 --- G[ ]:::cE9C46A --- H[ ]:::cE76F51
+  A[ ]:::c222222 B[ ]:::cFFFFFF C[ ]:::cF4F4F4 D[ ]:::c6C757D E[ ]:::c2A9D8F F[ ]:::c2F5233 G[ ]:::cE9C46A H[ ]:::cE76F51
 
   classDef c222222 fill:#222222,stroke:#222222;
   classDef cFFFFFF fill:#FFFFFF,stroke:#DDDDDD;
