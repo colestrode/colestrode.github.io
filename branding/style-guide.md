@@ -9,7 +9,7 @@ Effortless clarity for complex leadership.
 
 ## 🎨 Color Palette
 
-Below is the palette for the brand. Short names and hex values are provided for quick reference. Long descriptions and guidance are kept in the prose sections that follow. Dark mode palette guidelines can be found in dark-palette.md.
+Below is the palette for the brand. Short names and hex values are provided for quick reference. Long descriptions and guidance are kept in the prose sections that follow. Dark mode palette guidelines can be found in [dark-palette.md](./dark-palette.md).
 
 | Color        | Hex code  | Swatch                                                                                         | Typical Usage                             |
 |--------------|-----------|------------------------------------------------------------------------------------------------|-------------------------------------------|
@@ -47,8 +47,7 @@ Proportional breakdown:
 
 ### 🌙 Dark Mode
 
-For an adapted palette that works in dark environments, see the  
-[Dark Mode Style Guide](./dark-palette.md).
+For an adapted palette that works in dark environments, see the [Dark Mode Style Guide](./dark-palette.md).
 
 ## ✍️ Typography
 
@@ -74,7 +73,7 @@ For an adapted palette that works in dark environments, see the
 - **Buttons/CTAs:** Coral Red with white text, hover in Warm Gold  
 - **Diagrams:**  
   - Arrows: Deep Teal  
-  - Nodes: Gold (Play), Teal (Learn), Coral (Apply)  
+  - Nodes: Gold, Teal, Coral
   - Labels: Charcoal  
 - **Pull Quotes:** Warm Gold or Light Grey backgrounds with Charcoal text  
 
