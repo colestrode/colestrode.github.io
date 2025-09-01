@@ -11,31 +11,36 @@ Effortless clarity for complex leadership.
 
 Below is the palette for the brand. Short names and hex values are provided for quick reference. Long descriptions and guidance are kept in the prose sections that follow. Dark mode palette guidelines can be found in dark-palette.md.
 
-| Colour       | Hex       | Typical usage                         |
-|--------------|-----------|---------------------------------------|
-| **Charcoal** | <span style="background-color:#222222; color:#ffffff; padding:0.3em 1em; border-radius:4px;">#222222</span> | Base backgrounds, navigation, dark text |
-| **White**    | <span style="background-color:#FFFFFF; color:#000000; padding:0.3em 1em; border:1px solid #ccc; border-radius:4px;">#FFFFFF</span> | Main backgrounds, light text           |
-| **Light Grey** | <span style="background-color:#F4F4F4; color:#000000; padding:0.3em 1em; border:1px solid #ccc; border-radius:4px;">#F4F4F4</span> | Card backgrounds, subtle panels       |
-| **Medium Grey** | <span style="background-color:#6C757D; color:#ffffff; padding:0.3em 1em; border-radius:4px;">#6C757D</span> | Secondary text, captions             |
-| **Deep Teal** | <span style="background-color:#2A9D8F; color:#ffffff; padding:0.3em 1em; border-radius:4px;">#2A9D8F</span> | Primary accent, flows and section markers |
-| **Forest Green** | <span style="background-color:#2F5233; color:#ffffff; padding:0.3em 1em; border-radius:4px;">#2F5233</span> | Growth, stability accents            |
-| **Warm Gold** | <span style="background-color:#E9C46A; color:#000000; padding:0.3em 1em; border-radius:4px;">#E9C46A</span> | Highlights, optimistic accents         |
-| **Coral Red** | <span style="background-color:#E76F51; color:#ffffff; padding:0.3em 1em; border-radius:4px;">#E76F51</span> | Calls-to-action, emphasis              |
+| Color         | Swatch                                                                                          | Typical Usage                                  |
+|---------------|-------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Charcoal      | ![charcoal](https://img.shields.io/badge/%23222222-%23222222-222222?style=flat&label=)           | Base backgrounds, navigation, dark text        |
+| White         | ![white](https://img.shields.io/badge/%23FFFFFF-%23FFFFFF-FFFFFF?style=flat&label=)              | Main backgrounds, light text                   |
+| Light Grey    | ![lightgrey](https://img.shields.io/badge/%23F4F4F4-%23F4F4F4-F4F4F4?style=flat&label=)          | Card backgrounds, subtle panels                |
+| Medium Grey   | ![mediumgrey](https://img.shields.io/badge/%236C757D-%236C757D-6C757D?style=flat&label=)         | Secondary text, captions                       |
+| Deep Teal     | ![teal](https://img.shields.io/badge/%232A9D8F-%232A9D8F-2A9D8F?style=flat&label=)                | Primary accent, flows and section markers      |
+| Forest Green  | ![green](https://img.shields.io/badge/%232F5233-%232F5233-2F5233?style=flat&label=)              | Growth, stability accents                      |
+| Warm Gold     | ![gold](https://img.shields.io/badge/%23E9C46A-%23E9C46A-E9C46A?style=flat&label=)                | Highlights, optimistic accents                 |
+| Coral Red     | ![coral](https://img.shields.io/badge/%23E76F51-%23E76F51-E76F51?style=flat&label=)              | Calls-to-action, emphasis                      |
 
 ---
 
 ### 🎨 Palette Strip
 
-<div style="display:flex; flex-direction:row; border:1px solid #ccc; border-radius:6px; overflow:hidden; width:100%; max-width:800px;">
-  <div style="flex:1; background-color:#222222; color:#fff; text-align:center; padding:1em;">#222222<br>Charcoal</div>
-  <div style="flex:1; background-color:#FFFFFF; color:#000; text-align:center; padding:1em; border-left:1px solid #ccc;">#FFFFFF<br>White</div>
-  <div style="flex:1; background-color:#F4F4F4; color:#000; text-align:center; padding:1em; border-left:1px solid #ccc;">#F4F4F4<br>Light Grey</div>
-  <div style="flex:1; background-color:#6C757D; color:#fff; text-align:center; padding:1em; border-left:1px solid #ccc;">#6C757D<br>Medium Grey</div>
-  <div style="flex:1; background-color:#2A9D8F; color:#fff; text-align:center; padding:1em; border-left:1px solid #ccc;">#2A9D8F<br>Deep Teal</div>
-  <div style="flex:1; background-color:#2F5233; color:#fff; text-align:center; padding:1em; border-left:1px solid #ccc;">#2F5233<br>Forest Green</div>
-  <div style="flex:1; background-color:#E9C46A; color:#000; text-align:center; padding:1em; border-left:1px solid #ccc;">#E9C46A<br>Warm Gold</div>
-  <div style="flex:1; background-color:#E76F51; color:#fff; text-align:center; padding:1em; border-left:1px solid #ccc;">#E76F51<br>Coral Red</div>
-</div>
+# Palette Strip (Mermaid)
+
+```mermaid
+flowchart LR
+  A[ ]:::c222222 --- B[ ]:::cFFFFFF --- C[ ]:::cF4F4F4 --- D[ ]:::c6C757D --- E[ ]:::c2A9D8F --- F[ ]:::c2F5233 --- G[ ]:::cE9C46A --- H[ ]:::cE76F51
+
+  classDef c222222 fill:#222222,stroke:#222222;
+  classDef cFFFFFF fill:#FFFFFF,stroke:#DDDDDD;
+  classDef cF4F4F4 fill:#F4F4F4,stroke:#DDDDDD;
+  classDef c6C757D fill:#6C757D,stroke:#6C757D,color:#FFFFFF;
+  classDef c2A9D8F fill:#2A9D8F,stroke:#2A9D8F,color:#FFFFFF;
+  classDef c2F5233 fill:#2F5233,stroke:#2F5233,color:#FFFFFF;
+  classDef cE9C46A fill:#E9C46A,stroke:#E9C46A;
+  classDef cE76F51 fill:#E76F51,stroke:#E76F51,color:#FFFFFF;
+```
 
 ---
 

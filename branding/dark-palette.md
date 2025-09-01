@@ -6,17 +6,18 @@ Effortless clarity also needs to work in dark environments. This palette adapts 
 
 ## 🎨 Colours
 
-| Role             | Hex       | Swatch |
-|------------------|-----------|--------|
-| **Background**   | `#0F1214` | <span style="background-color:#0F1214; color:#F5F7FA; padding:0.3em 1em; border-radius:4px;">#0F1214</span> |
-| **Surface**      | `#161A1D` | <span style="background-color:#161A1D; color:#F5F7FA; padding:0.3em 1em; border-radius:4px;">#161A1D</span> |
-| **Text Primary** | `#F5F7FA` | <span style="background-color:#F5F7FA; color:#0F1214; padding:0.3em 1em; border:1px solid #ccc; border-radius:4px;">#F5F7FA</span> |
-| **Text Secondary** | `#B6C2CF` | <span style="background-color:#B6C2CF; color:#0F1214; padding:0.3em 1em; border:1px solid #ccc; border-radius:4px;">#B6C2CF</span> |
-| **Divider**      | `#2A2F35` | <span style="background-color:#2A2F35; color:#F5F7FA; padding:0.3em 1em; border-radius:4px;">#2A2F35</span> |
-| **Deep Teal**    | `#2FB7A6` | <span style="background-color:#2FB7A6; color:#0F1214; padding:0.3em 1em; border-radius:4px;">#2FB7A6</span> |
-| **Forest Green** | `#4C7A57` | <span style="background-color:#4C7A57; color:#F5F7FA; padding:0.3em 1em; border-radius:4px;">#4C7A57</span> |
-| **Warm Gold**    | `#F0CF7A` | <span style="background-color:#F0CF7A; color:#0F1214; padding:0.3em 1em; border-radius:4px;">#F0CF7A</span> |
-| **Coral Red**    | `#FF8A6B` | <span style="background-color:#FF8A6B; color:#0F1214; padding:0.3em 1em; border-radius:4px;">#FF8A6B</span> |
+| Color          | Swatch                                                                                          | Typical Usage                                  |
+|----------------|-------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Background     | ![background](https://img.shields.io/badge/%230F1214-%230F1214-0F1214?style=flat&label=)         | Base background for dark UI                    |
+| Surface        | ![surface](https://img.shields.io/badge/%23161A1D-%23161A1D-161A1D?style=flat&label=)            | Cards, nav bars, raised elements               |
+| Text Primary   | ![text](https://img.shields.io/badge/%23F5F7FA-%23F5F7FA-F5F7FA?style=flat&label=)                | Body text on dark backgrounds                  |
+| Text Secondary | ![secondary](https://img.shields.io/badge/%23B6C2CF-%23B6C2CF-B6C2CF?style=flat&label=)          | Secondary text, captions                       |
+| Divider        | ![divider](https://img.shields.io/badge/%232A2F35-%232A2F35-2A2F35?style=flat&label=)            | Subtle borders, separators                     |
+| Deep Teal      | ![teal](https://img.shields.io/badge/%232FB7A6-%232FB7A6-2FB7A6?style=flat&label=)                | Primary accent, flows and section markers      |
+| Forest Green   | ![green](https://img.shields.io/badge/%234C7A57-%234C7A57-4C7A57?style=flat&label=)              | Growth, stability accents                      |
+| Warm Gold      | ![gold](https://img.shields.io/badge/%23F0CF7A-%23F0CF7A-F0CF7A?style=flat&label=)                | Highlights, optimistic accents                 |
+| Coral Red      | ![coral](https://img.shields.io/badge/%23FF8A6B-%23FF8A6B-FF8A6B?style=flat&label=)              | Calls-to-action, emphasis                      |
+
 
 ---
 
