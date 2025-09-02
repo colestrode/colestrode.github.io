@@ -15,7 +15,7 @@ So, in this post I’ll do my best to explain this idea and share how it can mak
 
 ### What is effortless management?
 
-Effortless management is an approach to engineering management that recognizes that we do our best work when we are our best selves. It's more of a set of values than a specific set of practices. Now, "effortless" doesn't mean *zero* effort or being lazy. It means applying your effort and, critically, your finite energy, where they have the greatest impact. It's about achieving maximum results with focused, high-leverage work, much like a master craftsman makes a difficult task *look* easy through skill and optimized technique.
+Effortless management is an approach to engineering management that recognizes that we do our best work when we are our best selves. It's more of a set of values than a specific set of practices. Now, "effortless" doesn't mean *zero* effort or being lazy. It means applying your effort and, critically, [your finite energy]({% post_url 2025-05-26-hidden-variable-leadership-effectiveness %}), where they have the greatest impact. It's about achieving maximum results with focused, high-leverage work, much like a master craftsman makes a difficult task *look* easy through skill and optimized technique.
 
 If I had to distill it, I'd say an effortless manager values:
 
