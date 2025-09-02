@@ -69,13 +69,35 @@ For an adapted palette that works in dark environments, see the [Dark Mode Style
 
 ## 📐 Layout & Elements
 
-- **Headers & Nav:** Charcoal background, white text, hover/active in Teal  
-- **Buttons/CTAs:** Coral Red with white text, hover in Warm Gold  
-- **Diagrams:**  
-  - Arrows: Deep Teal  
-  - Nodes: Gold, Teal, Coral
-  - Labels: Charcoal  
-- **Pull Quotes:** Warm Gold or Light Grey backgrounds with Charcoal text  
+Consistent use of colors for interactive elements and headers reinforces the brand identity while improving usability and accessibility.
+
+### Links
+- **Default state (light mode):** Deep Teal `#2A9D8F`
+- **Hover / Focus:** Warm Gold `#E9C46A`
+- **Visited:** Muted Teal `#22786F`
+- **Dark mode default:** Lightened Teal `#2FB7A6` (hover Warm Gold `#F0CF7A`)
+- **Underline:** Keep underline on hover (optional default underline if clarity is needed)
+- **Rationale:** Teal signals flow and trust, Gold adds emphasis when interactive.
+
+### Call-to-Action Buttons
+- **Primary CTA background:** Coral Red `#E76F51`
+- **Primary CTA text:** White `#FFFFFF`
+- **Hover background:** Warm Gold `#E9C46A`
+- **Secondary CTA background:** Warm Gold `#E9C46A` (with Charcoal text)
+- **Secondary CTA hover:** Deep Teal `#2A9D8F`
+- **Shape:** Rounded corners (4–6px), adequate padding (min 12px vertical, 20px horizontal)
+- **Rationale:** Coral drives urgency and action, Gold provides a softer alternative for secondary actions.
+
+### Headers
+- **H1 (Post Titles, Main Page Headers):** Charcoal `#222222`
+- **H2 (Section Headers):** Charcoal `#222222`
+- **H3–H4 (Sub-sections):** Medium Grey `#6C757D`
+- **Accent Highlight (optional):** Warm Gold `#E9C46A` for key pull quotes or highlighted phrases
+- **Font:** Urbanist, bold for H1/H2, semi-bold for H3/H4
+- **Rationale:** Headers stay neutral and grounded, while teal is reserved for links and subtle accents, ensuring no overlap in meaning.
+
+### Other Elements 
+ - **Pull Quotes:** Warm Gold or Light Grey backgrounds with Charcoal text  
 
 ---
 
