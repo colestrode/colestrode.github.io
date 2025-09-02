@@ -52,7 +52,7 @@ For an adapted palette that works in dark environments, see the [Dark Mode Style
 ## ✍️ Typography
 
 - **Logo & Headers:** Urbanist, weight 500–700  
-- **Body Text:** Inter or Roboto, Regular 400–500  
+- **Body Text:** Inter, Regular 400  
 - **Code/Examples:** Fira Code or Source Code Pro  
 
 ---
