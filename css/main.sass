@@ -432,7 +432,8 @@ body
       -webkit-hyphens: auto
       -moz-hyphens: auto
       hyphens: auto
-    a
+    // Default link styling inside post content, excluding buttons
+    a:not(.btn)
       color: $color-deep-teal
       text-decoration: underline
     img
@@ -669,6 +670,8 @@ pre
   line-height: 1.2
   padding: 12px 20px
   border: none
+  &:hover, &:focus
+    text-decoration: none
 
 .btn-primary
   @extend .btn
@@ -685,9 +688,12 @@ pre
   @extend .btn
   background: $color-warm-gold
   color: $color-charcoal
+  &:visited
+    color: $color-charcoal
   &:hover, &:focus
     background: $color-deep-teal
     color: $color-white
+    text-decoration: none
 
 // Accent highlight utility
 .accent-highlight

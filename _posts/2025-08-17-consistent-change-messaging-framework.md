@@ -40,7 +40,9 @@ Every section contributes to a strong message, but spend the most time on the �
 
 This structure helps you focus on the core. Keep your notes brief, direct, and bullet-based—you’ll shape them into audience-specific messages later.
 
-All of this can live in a single doc and can be drafted surprisingly quickly. That document becomes your source of truth for every version of the message you deliver. If you want to try this for yourself, I have a [template](https://docs.google.com/document/d/1S2TqFxtOMJzk_BDTGYFCDF7IdyOuQ21bUxw7_WTsS54/edit?usp=sharing) you can use for your next change.
+All of this can live in a single doc and can be drafted surprisingly quickly. That document becomes your source of truth for every version of the message you deliver. If you want to try this for yourself, I have a template you can use for your next change:
+
+[Try the core message template](https://docs.google.com/document/d/1S2TqFxtOMJzk_BDTGYFCDF7IdyOuQ21bUxw7_WTsS54/edit?usp=sharing){: .btn .btn-primary target="_blank" rel="noopener noreferrer" }
 
 ### A Real-World Example
 
