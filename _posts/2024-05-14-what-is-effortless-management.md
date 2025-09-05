@@ -57,7 +57,7 @@ Does the idea of your team thriving without constant oversight feel like a dista
 
 Effortless management fosters a culture of accountability and empowerment, where team members feel confident in their abilities to contribute meaningfully. As a result, they can take on larger projects and more complex challenges without feeling overwhelmed. Effortless management becomes a catalyst for growth—not just for ourselves as managers, but for our teams and the organization as a whole. By managing efficiently and effortlessly, we position ourselves to embrace greater responsibilities with ease, paving the way for innovation and success within our teams and beyond.
 
-As one of my friends likes to say, "If you can't be replaced, you can be promoted." Eventually, you will have a team that feels like it runs itself. At this point, you are ready for an expanded scope.
+As one of my friends likes to say, "If you can't be replaced, you can't be promoted." Eventually, you will have a team that feels like it runs itself. At this point, you are ready for an expanded scope.
 
 ### Managing your most precious resource: energy
 
