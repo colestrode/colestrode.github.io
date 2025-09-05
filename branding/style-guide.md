@@ -13,14 +13,14 @@ Below is the palette for the brand. Short names and hex values are provided for 
 
 | Color        | Hex code  | Swatch                                                                                         | Typical Usage                             |
 |--------------|-----------|------------------------------------------------------------------------------------------------|-------------------------------------------|
-| Charcoal     | `#222222` | ![charcoal](https://img.shields.io/badge/%23222222-%23222222-222222?style=flat&label=)          | Base backgrounds, navigation, dark text   |
-| White        | `#FFFFFF` | ![white](https://img.shields.io/badge/%23FFFFFF-%23FFFFFF-FFFFFF?style=flat&label=)             | Main backgrounds, light text              |
-| Light Grey   | `#F4F4F4` | ![lightgrey](https://img.shields.io/badge/%23F4F4F4-%23F4F4F4-F4F4F4?style=flat&label=)         | Card backgrounds, subtle panels           |
-| Medium Grey  | `#6C757D` | ![mediumgrey](https://img.shields.io/badge/%236C757D-%236C757D-6C757D?style=flat&label=)        | Secondary text, captions                  |
-| Deep Teal    | `#2A9D8F` | ![teal](https://img.shields.io/badge/%232A9D8F-%232A9D8F-2A9D8F?style=flat&label=)               | Primary accent, flows and section markers |
-| Forest Green | `#2F5233` | ![green](https://img.shields.io/badge/%232F5233-%232F5233-2F5233?style=flat&label=)             | Growth, stability accents                 |
-| Warm Gold    | `#E9C46A` | ![gold](https://img.shields.io/badge/%23E9C46A-%23E9C46A-E9C46A?style=flat&label=)               | Highlights, optimistic accents            |
-| Coral Red    | `#E76F51` | ![coral](https://img.shields.io/badge/%23E76F51-%23E76F51-E76F51?style=flat&label=)             | Calls-to-action, emphasis                 |
+| Charcoal     | `#222222` | ![](https://img.shields.io/badge/%23222222-%23222222-222222?style=flat&label=)          | Base backgrounds, navigation, dark text   |
+| White        | `#FFFFFF` | ![](https://img.shields.io/badge/%23FFFFFF-%23FFFFFF-FFFFFF?style=flat&label=)             | Main backgrounds, light text              |
+| Light Grey   | `#F4F4F4` | ![](https://img.shields.io/badge/%23F4F4F4-%23F4F4F4-F4F4F4?style=flat&label=)         | Card backgrounds, subtle panels           |
+| Medium Grey  | `#6C757D` | ![](https://img.shields.io/badge/%236C757D-%236C757D-6C757D?style=flat&label=)        | Secondary text, captions                  |
+| Deep Teal    | `#2A9D8F` | ![](https://img.shields.io/badge/%232A9D8F-%232A9D8F-2A9D8F?style=flat&label=)               | Primary accent, flows and section markers |
+| Forest Green | `#2F5233` | ![](https://img.shields.io/badge/%232F5233-%232F5233-2F5233?style=flat&label=)             | Growth, stability accents                 |
+| Warm Gold    | `#E9C46A` | ![](https://img.shields.io/badge/%23E9C46A-%23E9C46A-E9C46A?style=flat&label=)               | Highlights, optimistic accents            |
+| Coral Red    | `#E76F51` | ![](https://img.shields.io/badge/%23E76F51-%23E76F51-E76F51?style=flat&label=)             | Calls-to-action, emphasis                 |
 
 
 ---
