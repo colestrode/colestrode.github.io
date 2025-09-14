@@ -16,7 +16,7 @@ layout: default
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
       <a href={{ "/resources/" | prepend: site.baseurl }}>Resources</a></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-            {% for social in site.social %}
+        {% for social in site.social %}
         {% if social.url %}
             <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
               <i class="fa-brands fa-{{ social.icon }}"></i>
@@ -24,6 +24,10 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
+      <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'JNvCg6', true)" title="Newsletter"><i class="fa fa-envelope"></i></a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}" title="RSS"><i class="fa fa-rss"></i></a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
       <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
     </div>
 </header>

@@ -50,6 +50,10 @@
 
   <link rel="stylesheet" type="text/css" media="screen" href="{{ "/css/main.css"  | prepend: site.baseurl  }}" />
   <link rel="stylesheet" type="text/css" media="print" href="{{ "/css/print.css"  | prepend: site.baseurl  }}" />
+
+  {% if site.mailerlite %}
+  {% include mailerlite.html %}
+  {% endif %}
 </head>
 {% if site.google_tag_manager %}
 {% include google_tag_manager.html %}
