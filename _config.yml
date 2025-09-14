@@ -38,6 +38,9 @@ unpublished: false # hide unpublished posts
 #google_analytics: UA-XXXXX-X
 google_tag_manager: G-FXJL4J0WT7
 
+#mailerlite account ID
+mailerlite: 1508770
+
 # social icons and sharing options
 social:
 #  - icon:	twitter
