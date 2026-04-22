@@ -18,7 +18,7 @@ For my first few years as a manager, I continued to code alongside my teams as a
 
 Through this journey, I've become deeply passionate about engineering management and the impact a good manager can have not only on the team's outcomes, but also on the individuals. Through experience and continuous learning, I've found that effective management skills are best applied with empathy.
 
-My belief in this approach led me to pursue a 3-year masters in Transformative Leadership and Social Change from the [Maryland University of Integrative Health](https://muih.edu/), and I've participated in several executive and leadership coaching programs. I've found that the more I practice these skills, the easier management becomes. In my best moments, the teams run themselves, and the work feels effortless—it's not magic, just consistent practice.
+My belief in this approach led me to pursue a 3-year masters in Transformative Leadership and Social Change from the [Maryland University of Integrative Health](https://www.ndm.edu/academics/integrative-health), and I've participated in several executive and leadership coaching programs. I've found that the more I practice these skills, the easier management becomes. In my best moments, the teams run themselves, and the work feels effortless—it's not magic, just consistent practice.
 
 To see these ideas in action and explore related concepts, you can read more about my approach in [What is effortless management]({% post_url 2024-05-14-what-is-effortless-management %}) and explore some of my recommended management books and articles for software leaders [here](/resources).
 
