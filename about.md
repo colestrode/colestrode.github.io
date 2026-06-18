@@ -10,7 +10,7 @@ image2: /assets/article_images/about/nordic_socks-mobile.jpg
 
 *Insights on Software Engineering Management & Leadership*
 
-Hi! I'm Cole Strode, a Senior Engineering Manager at [Zendesk](https://www.zendesk.com/)! After years in the tech industry, I've seen firsthand the impact leadership has on teams and individuals. I created this blog as a space to share what I've learned about building effective, empathetic engineering teams and leaders.
+Hi! I'm Cole Strode, a Senior Engineering Manager at [Elastic](https://www.elastic.co/)! After years in the tech industry, I've seen firsthand the impact leadership has on teams and individuals. I created this blog as a space to share what I've learned about building effective, empathetic engineering teams and leaders.
 
 After graduating with honors in Computer Science from [Johns Hopkins University](https://www.jhu.edu/), I spent nearly a decade as a hands-on engineer at various companies until I transitioned into management in 2017. 
 
